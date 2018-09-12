@@ -6,11 +6,13 @@ int prime[33000];
 
 void Prime(){
 
-	int check,i,j;
+	int check,tmp,i,j;
+	memset(prime,0,sizeof(prime));
 
 	for(i=2;i<33000;i=i+1){
 		check=0;
-		for(j=2;j<i;j=j+1){
+		tmp=int(sqrt(i));
+		for(j=2;j<=tmp;j=j+1){
 			if(i%j==0){
 				check=1;
 				break;
@@ -21,8 +23,7 @@ void Prime(){
 		else
 			prime[i]=0;
 	}
-	prime[0]=0;
-	prime[1]=0;
+
 	prime[2]=1;
 
 }
@@ -31,7 +32,7 @@ int main(int argc, char const *argv[])
 {
 	
 	#ifdef DEBUG
-	freopen("p1.in","r",stdin);
+	freopen("input.in","r",stdin);
 	freopen("output.out","w",stdout);
 	#endif
 
