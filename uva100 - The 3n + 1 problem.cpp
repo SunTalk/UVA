@@ -1,5 +1,5 @@
-#include <iostream>
-#include <cstdio>
+#include <bits/stdc++.h>
+
 using namespace std;
 
 unsigned int table[1000001];
@@ -33,20 +33,35 @@ int main(int argc, char const *argv[])
 {
 	#ifdef DEBUG
 	freopen("input.in","r",stdin);
+	freopen("output.out","w",stdout);
 	#endif
 //
+	memset(table,0,sizeof(table));
 	Table();
 	unsigned int one,two,ans;
 //
 	while( scanf("%d %d",&one,&two) != EOF){
 		ans=1;
-		for(i=one;i<=two;i=i+1){
-			
-			if(ans<table[i]){
-				ans=table[i];
+
+		if(one>two){
+			for(i=two;i<=one;i=i+1){
+				
+				if(ans<table[i]){
+					ans=table[i];
+				}
+				
 			}
-			
 		}
+		else{
+			for(i=one;i<=two;i=i+1){
+				
+				if(ans<table[i]){
+					ans=table[i];
+				}
+				
+			}
+		}
+			
 		printf("%d %d %d\n",one,two,ans);
 	}
 //
