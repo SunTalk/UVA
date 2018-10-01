@@ -7,7 +7,7 @@ using namespace std;
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 
-int main()
+int main(int argc, char const *argv[])
 {
 	#ifdef DBG
 	freopen("uva" PROBLEM TESTC ".in", "r", stdin);

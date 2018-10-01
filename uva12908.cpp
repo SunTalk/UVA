@@ -19,14 +19,13 @@ int binary_search(int start,int end,int num){
 	int tmp = (start+end)/2;
 	if( (end-start) == 1 )
 		return end;
-
 	if( num > data[tmp] )
 		return binary_search(tmp,end,num);
 	else
 		return binary_search(start,tmp,num);
 }
 
-int main()
+int main(int argc, char const *argv[])
 {
 	#ifdef DBG
 	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
@@ -34,10 +33,8 @@ int main()
 	#endif
 
 	setup();
-
 	int number;
 	int seat;
-
 	while( ~scanf("%d",&number) && number ){
 		seat = binary_search(1,15005,number);
 		if( (data[seat]-number) == 0 ) seat++;
