@@ -10,8 +10,8 @@ using namespace std;
 int main()
 {
 	#ifdef DBG
-	freopen(PROBLEM TESTC ".in", "r", stdin);
-	freopen(PROBLEM ".out", "w", stdout);
+	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
+	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
 	return 0;
