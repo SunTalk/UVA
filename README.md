@@ -10,7 +10,7 @@
 * [x] uva113 - Power of Cryptography
 * [x] uva118 - Mutant Flatworld Explorers
 * [x] uva12608 - Garbage Collection
-* [x] Rename uva127 - "Accordian" Patience
+* [x] uva127 - "Accordian" Patience
 * [x] uva12908 - The book thief
 * [x] uva130 - Roman Roulette
 * [x] uva357 - Let Me Count The Ways
