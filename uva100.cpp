@@ -2,9 +2,14 @@
 
 using namespace std;
 
+#define TESTC ""
+#define PROBLEM "100"
+
+#define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+
 unsigned int table[1000001];
 unsigned int temp,number,i;
-//
+
 void Table(){
 	for(i=1;i<1000001;i=i+1){
 		number=1;
@@ -31,11 +36,11 @@ void Table(){
 
 int main(int argc, char const *argv[])
 {
-	#ifdef DEBUG
-	freopen("input.in","r",stdin);
-	freopen("output.out","w",stdout);
+	#ifdef DBG
+	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
+	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
-//
+
 	memset(table,0,sizeof(table));
 	Table();
 	unsigned int one,two,ans;
@@ -64,6 +69,8 @@ int main(int argc, char const *argv[])
 			
 		printf("%d %d %d\n",one,two,ans);
 	}
-//
+
+
+
 	return 0;
 }

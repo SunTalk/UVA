@@ -1,6 +1,6 @@
 # UVA
 * [x] uva100 - The 3n + 1 problem
-* [x] uva101 - The Blocks Problem
+* [ ] uva101 - The Blocks Problem
 * [x] uva102 - Ecological Bin Packing
 * [x] uva104 - Arbitrage
 * [x] uva107 - The Cat in the Hat
@@ -16,6 +16,7 @@
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
+* [x] uva12208 - How Many Ones Needed?
 * [x] uva12461 - Airplane
 * [x] uva12608 - Garbage Collection
 * [x] uva12908 - The book thief
