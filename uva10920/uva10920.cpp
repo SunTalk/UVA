@@ -1,30 +1,35 @@
-#include <iostream>
-#include <cstdio>
+#include <bits/stdc++.h>
 
 using namespace std;
 
+#define TESTC ""
+#define PROBLEM "10920"
+
+#define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+
 int main(int argc, char const *argv[])
 {
-	#ifdef DEBUG
-	freopen("input.in","r",stdin);
-	freopen("output.out","w",stdout);
+	#ifdef DBG
+	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
+	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	int size,number;
-	int level[50001],i,Tmp;
-	int tmp,line,column;
 
-	for(i=0;i<50001;i=i+1){
+	long long size,number;
+	long long level[50005],i,Tmp;
+	long long tmp,line,column;
+
+	for(i=0;i<50005;i=i+1){
 		tmp=(i*2)-1;
 		level[i]=tmp*tmp;
 	}
 
-	while(scanf("%d %d",&size,&number) != EOF && size && number){
+	while(scanf("%lld %lld",&size,&number) != EOF && size && number){
 		
 		tmp=(size+1)/2;
 		line=column=tmp;
 		if(number==1){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		} 
 
@@ -41,7 +46,7 @@ int main(int argc, char const *argv[])
 		tmp=tmp+1;
 		line=line+1;
 		if(tmp==number){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		}
 
@@ -53,7 +58,7 @@ int main(int argc, char const *argv[])
 			}
 		}
 		if(tmp==number){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		}
 		for(i=0;i<Tmp;i=i+1){
@@ -64,7 +69,7 @@ int main(int argc, char const *argv[])
 			}
 		}
 		if(tmp==number){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		}
 
@@ -76,7 +81,7 @@ int main(int argc, char const *argv[])
 			}
 		}
 		if(tmp==number){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		}
 
@@ -88,14 +93,11 @@ int main(int argc, char const *argv[])
 			}
 		}
 		if(tmp==number){
-			printf("Line = %d, column = %d.\n",line,column );
+			printf("Line = %lld, column = %lld.\n",line,column );
 			continue;
 		}
 
 	}
-
-
-
 
 	return 0;
 }

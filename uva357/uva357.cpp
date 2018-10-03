@@ -1,15 +1,19 @@
-#include <iostream>
-#include <cstdio>
+#include <bits/stdc++.h>
 
 using namespace std;
 
+#define TESTC ""
+#define PROBLEM "357"
+
+#define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+
 int main(int argc, char const *argv[])
 {
-	#ifdef DEBUG
-	freopen("input.in","r",stdin);
-	freopen("output.out","w",stdout);
+	#ifdef DBG
+	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
+	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
-	
+
 	long long dollar[30005];
 	int value[5]={1,5,10,25,50};
 	int i,j,k,tmp;
@@ -36,7 +40,6 @@ int main(int argc, char const *argv[])
 			printf("There are %lld ways to produce %d cents change.\n",dollar[money],money );
 		}
 	}
-
 
 	return 0;
 }
