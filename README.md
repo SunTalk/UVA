@@ -18,6 +18,7 @@
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
+* [ ] uva11542 - Square
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12461 - Airplane
 * [x] uva12608 - Garbage Collection
