@@ -13,6 +13,7 @@
 * [x] uva557 - Burger
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
+* [x] uva10409 - Die Game
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
