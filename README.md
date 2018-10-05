@@ -1,6 +1,6 @@
 # UVA
 * [x] uva100 - The 3n + 1 problem
-* [ ] uva101 - The Blocks Problem
+* [x] uva101 - The Blocks Problem
 * [x] uva102 - Ecological Bin Packing
 * [x] uva104 - Arbitrage
 * [x] uva107 - The Cat in the Hat
