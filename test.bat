@@ -1,0 +1,25 @@
+@echo off
+
+cp.bat 100
+cp.bat 101
+cp.bat 102
+cp.bat 104
+cp.bat 107
+cp.bat 113
+cp.bat 118
+cp.bat 127
+cp.bat 130
+cp.bat 357
+cp.bat 488
+cp.bat 557
+cp.bat 686
+cp.bat 825
+cp.bat 1605
+cp.bat 10409
+cp.bat 10920
+cp.bat 10976
+cp.bat 12208
+cp.bat 12406
+cp.bat 12461
+cp.bat 12608
+cp.bat 12908
