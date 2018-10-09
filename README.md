@@ -21,6 +21,7 @@
 * [ ] uva11542 - Square
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12406 - Help Dexter
+* [x] uva12414 - Calculating Yuan Fen
 * [x] uva12461 - Airplane
 * [x] uva12608 - Garbage Collection
 * [x] uva12908 - The book thief
