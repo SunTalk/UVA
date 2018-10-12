@@ -13,6 +13,7 @@
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
 * [x] uva488 - Triangle Wave
+* [x] uva494 - Kindergarten Counting Game
 * [x] uva557 - Burger
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
