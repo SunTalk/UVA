@@ -12,6 +12,7 @@
 * [x] uva357 - Let Me Count The Ways
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
+* [ ] uva477 - Points in Figures: Rectangles and Circles
 * [x] uva488 - Triangle Wave
 * [x] uva494 - Kindergarten Counting Game
 * [x] uva557 - Burger
