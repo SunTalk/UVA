@@ -11,6 +11,7 @@
 * [x] uva272 - TeX Quotes
 * [x] uva357 - Let Me Count The Ways
 * [x] uva458 - The Decoder
+* [x] uva476 - Points in Figures: Rectangles
 * [x] uva488 - Triangle Wave
 * [x] uva557 - Burger
 * [x] uva686 - Goldbach's Conjecture (II)
