@@ -12,10 +12,11 @@
 * [x] uva357 - Let Me Count The Ways
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
-* [ ] uva477 - Points in Figures: Rectangles and Circles
+* [x] uva477 - Points in Figures: Rectangles and Circles
 * [x] uva488 - Triangle Wave
 * [x] uva494 - Kindergarten Counting Game
 * [x] uva557 - Burger
+* [x] uva579 - ClockHands
 * [x] uva591 - Box of Bricks
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
