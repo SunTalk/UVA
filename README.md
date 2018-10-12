@@ -15,6 +15,7 @@
 * [x] uva488 - Triangle Wave
 * [x] uva494 - Kindergarten Counting Game
 * [x] uva557 - Burger
+* [x] uva591 - Box of Bricks
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
 * [x] uva913 - Joana and the Odd Numbers
