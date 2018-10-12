@@ -8,7 +8,9 @@
 * [x] uva118 - Mutant Flatworld Explorers
 * [x] uva127 - "Accordian" Patience
 * [x] uva130 - Roman Roulette
+* [x] uva272 - TeX Quotes
 * [x] uva357 - Let Me Count The Ways
+* [x] uva458 - The Decoder
 * [x] uva488 - Triangle Wave
 * [x] uva557 - Burger
 * [x] uva686 - Goldbach's Conjecture (II)
