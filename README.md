@@ -23,6 +23,8 @@
 * [x] uva913 - Joana and the Odd Numbers
 * [x] uva1605 - Building for UN
 * [x] uva10018 - Reverse and Add
+* [x] uva10035 - Primary Arithmetic
+* [x] uva10038 - Jolly Jumpers
 * [x] uva10409 - Die Game
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
