@@ -26,6 +26,7 @@
 * [x] uva10035 - Primary Arithmetic
 * [x] uva10038 - Jolly Jumpers
 * [x] uva10055 - Hashmat the brave warrior
+* [x] uva10062 - Tell me the frequencies!
 * [x] uva10409 - Die Game
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
