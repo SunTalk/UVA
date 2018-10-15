@@ -9,6 +9,7 @@
 * [x] uva127 - "Accordian" Patience
 * [x] uva130 - Roman Roulette
 * [x] uva272 - TeX Quotes
+* [x] uva352 - The Seasonal War
 * [x] uva357 - Let Me Count The Ways
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
