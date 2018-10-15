@@ -28,7 +28,8 @@
 * [x] uva10055 - Hashmat the brave warrior
 * [x] uva10062 - Tell me the frequencies!
 * [x] uva10071 - Back to High School Physics
-* [X] uva10082 - WERTYU
+* [x] uva10082 - WERTYU
+* [x] uva10107 - What is the Median?
 * [x] uva10409 - Die Game
 * [x] uva10776 - Determine The Combination
 * [x] uva10920 - Spiral Tap
