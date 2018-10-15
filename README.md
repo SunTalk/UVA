@@ -32,6 +32,7 @@
 * [ ] uva10776 - Oh Your Royal Greediness!
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
+* [x] uva11069 - A Graph Problem
 * [ ] uva11542 - Square
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12406 - Help Dexter
