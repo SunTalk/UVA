@@ -29,7 +29,7 @@
 * [x] uva10062 - Tell me the frequencies!
 * [x] uva10071 - Back to High School Physics
 * [x] uva10409 - Die Game
-* [ ] uva10776 - Oh Your Royal Greediness!
+* [x] uva10776 - Determine The Combination
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem

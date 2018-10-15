@@ -7,6 +7,31 @@ using namespace std;
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 
+string word;
+int lengh;
+
+void Set( vector <char> ans , int k ){
+	
+	int i;
+	char tmp;
+	
+	if( ans.size() == lengh ){
+		for( i = 0 ; i < lengh ; i++ )
+			printf("%c",ans[i] );
+		printf("\n");
+		return;
+	}
+
+	for( i = k ; i < word.size() ; i++ ){
+		ans.push_back(word[i]);
+		Set( ans , i+1 );
+		ans.pop_back();
+		while( word[i] == word[i+1] && i+1 < word.size() )
+			i++;
+	}
+
+}
+
 int main(int argc, char const *argv[])
 {
 	#ifdef DBG
@@ -14,39 +39,22 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	USE_CPPIO();
-
-	string word;
-	int lengh;
-	int alphbat[30];
+	int i,j;
 
 	while( cin >> word >> lengh ){
 
-		int size,seat,i,j;
-		size = word.size();
-
-		memset(alphbat,0,sizeof(alphbat));
-
-		for( i = 0 ; i < size-1 ; i++ ){
-			for( j = i+1 ; j < size ; j++ ){
-				if( word[i] > word[j] )
-					swap(word[i],word[j]);
+		for( i = 1 ; i < word.size() ; i++ ){
+			j = i-1;
+			while( j != -1 && word[j] > word[j+1] ){
+				swap(word[j],word[j+1]);
+				j--;
 			}
 		}
-
-		cout << word << endl;
-		// for( i = 0 ; i < size ; i++ ){
-		// 	seat = word[i]-'a';
-		// 	alphbat[seat]++;
-		// }
-
-
-
 		
-
-
+		vector <char> ans;
+		Set(ans,0);
+	
 	}
-
 
 	return 0;
 }
