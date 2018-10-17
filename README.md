@@ -8,6 +8,7 @@
 * [x] uva118 - Mutant Flatworld Explorers
 * [x] uva127 - "Accordian" Patience
 * [x] uva130 - Roman Roulette
+* [ ] uva221 - Urban Elevations
 * [x] uva272 - TeX Quotes
 * [x] uva352 - The Seasonal War
 * [x] uva357 - Let Me Count The Ways
@@ -40,6 +41,7 @@
 * [ ] uva11297 - Census
 * [ ] uva11352 - Crazy King
 * [ ] uva11542 - Square
+* [ ] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12406 - Help Dexter
 * [x] uva12414 - Calculating Yuan Fen
