@@ -23,6 +23,7 @@
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
 * [x] uva913 - Joana and the Odd Numbers
+* [ ] uva929 - Number Maze
 * [x] uva1605 - Building for UN
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
