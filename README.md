@@ -40,7 +40,7 @@
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem
 * [ ] uva11297 - Census
-* [ ] uva11352 - Crazy King
+* [x] uva11352 - Crazy King
 * [ ] uva11542 - Square
 * [ ] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
