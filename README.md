@@ -24,6 +24,7 @@
 * [x] uva825 - Walking on the Safe Side
 * [x] uva913 - Joana and the Odd Numbers
 * [ ] uva929 - Number Maze
+* [ ] uva1149 - Bin Packing
 * [x] uva1605 - Building for UN
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
@@ -41,6 +42,7 @@
 * [x] uva11069 - A Graph Problem
 * [ ] uva11297 - Census
 * [x] uva11352 - Crazy King
+* [ ] uva11374 - Airport Express
 * [ ] uva11542 - Square
 * [ ] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
