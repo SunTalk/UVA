@@ -88,7 +88,6 @@ void BFS(int i,int j,int lengh){
 			BFS(tmp_i,tmp_j,lengh+1);
 		}
 	}
-		
 }
 
 int main(int argc, char const *argv[])
