@@ -20,6 +20,7 @@
 * [x] uva557 - Burger
 * [x] uva579 - ClockHands
 * [x] uva591 - Box of Bricks
+* [x] uva674 - Coin Change
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
 * [x] uva913 - Joana and the Odd Numbers
