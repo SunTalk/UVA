@@ -35,7 +35,7 @@
 * [x] uva10071 - Back to High School Physics
 * [x] uva10082 - WERTYU
 * [x] uva10107 - What is the Median?
-* [ ] uva10391 - Compound Words
+* [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
 * [x] uva10776 - Determine The Combination
 * [x] uva10920 - Spiral Tap
