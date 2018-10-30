@@ -42,7 +42,7 @@
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem
-* [ ] uva11235 - Frequent Values
+* [x] uva11235 - Frequent Values
 * [ ] uva11297 - Census
 * [x] uva11352 - Crazy King
 * [ ] uva11374 - Airport Express
