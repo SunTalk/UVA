@@ -47,7 +47,7 @@
 * [x] uva11352 - Crazy King
 * [ ] uva11374 - Airport Express
 * [ ] uva11542 - Square
-* [ ] uva11997 - K Smallest Sums
+* [x] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12406 - Help Dexter
 * [x] uva12414 - Calculating Yuan Fen

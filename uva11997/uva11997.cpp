@@ -14,55 +14,40 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	int number,tmp,i,j,k;
-	int Karr[755][2];
-	int ans[755];
+	int number,i,j,k;
+	int one[800],two[800];
+	pair <int,int> tmp;
 
 	while( ~scanf("%d",&number) ){
+		
+		for( i = 0 ; i < number ; i++ )
+			scanf("%d",&one[i]);
+		sort(one,one+number);
 
-		memset(Karr,0,sizeof(Karr));
-		memset(ans,0,sizeof(ans));
+		for( k = 1 ; k < number ; k++ ){
+			priority_queue <pair <int,int>,vector<pair <int,int>>,greater<pair <int,int>>> PQ;
+			
+			for( i = 0 ; i < number ; i++ )
+				scanf("%d",&two[i]);
+			sort(two,two+number);
 
-		for( i = 0 ; i < number ; i++ ){
-			Karr[i][0] = Karr[i][1] = 200000000;
-			for( j = 0 ; j < number ; j++ ){
-				scanf("%d",&tmp);
-				if( tmp < Karr[i][0] ){
-					Karr[i][1] = Karr[i][0];
-					Karr[i][0] = tmp;
-				}
-				else if( tmp < Karr[i][1] )
-					Karr[i][1] = tmp;
+			for( i = 0 ; i < number ; i++ )
+				PQ.push( make_pair(one[i]+two[0],0) );
+			
+			for( i = 0 ; i < number ; i++ ){
+				tmp = PQ.top();
+				PQ.pop();
+				one[i] = tmp.first;
+				if( tmp.second+1 < number )
+					PQ.push( make_pair( tmp.first - two[tmp.second] + two[tmp.second+1] , tmp.second+1 ) );
 			}
-		}
 
-		for( i = 0 ; i < number ; i++ ){
-			ans[0] = ans[0] + Karr[i][0];
 		}
 		
-		for( i = 0 ; i < number ; i++ ){
-			for( j = 0 ; j < number ; j++ ){
-				if( i == j )
-					ans[i+1] = ans[i+1] + Karr[j][1];
-				else
-					ans[i+1] = ans[i+1] + Karr[j][0];
-			}
-		}
-
-		for( i = 1 ; i < number+1 ; i++ ){
-			j = i-1;
-			while( ans[j] > ans[j+1] && j != -1 ){
-				swap(ans[j],ans[j+1]);
-				j--;
-			}
-		}
-
-		for( i = 0 ; i < number ; i++ )
-			printf("%d ",ans[i] );
-		printf("\n");
-
+		for( i = 0 ; i < number-1 ; i++ )
+			printf("%d ",one[i] );
+		printf("%d\n",one[number-1]);
 	}
-
 
 	return 0;
 }
