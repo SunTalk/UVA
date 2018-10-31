@@ -14,12 +14,12 @@ int Left[MAX+5];
 int Right[MAX+5];
 int ans;
 
-void buile_tree(int Tree[MAX*4],int Need[MAX] ,int L,int R,int seat){//0 n 1
+void build_tree(int Tree[MAX*4],int Need[MAX] ,int L,int R,int seat){//0 n 1
 	if( L == R )
 		Tree[seat]=Need[L];
 	else{
-		buile_tree( Tree , Need , L , (L+R)/2 , seat*2 );
-		buile_tree( Tree , Need , (L+R)/2+1 , R , seat*2+1 );
+		build_tree( Tree , Need , L , (L+R)/2 , seat*2 );
+		build_tree( Tree , Need , (L+R)/2+1 , R , seat*2+1 );
 
 		if( Tree[seat*2] > Tree[seat*2+1] )
 			Tree[seat] = Tree[seat*2];
@@ -89,7 +89,7 @@ int main(int argc, char const *argv[])
 				Right[j] = i-1;
 			}
 
-		buile_tree(table,number,0,length-1,1);
+		build_tree(table,number,0,length-1,1);
 
 		while( times-- ){
 			scanf("%d %d",&one,&two);
