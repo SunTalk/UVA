@@ -7,6 +7,10 @@ using namespace std;
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 
+#define MAX 1005
+#define INF 2147483647
+
+
 int main(int argc, char const *argv[])
 {
 	#ifdef DBG
@@ -14,32 +18,45 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	int times,tmp,x,y;
-	int maze[1005],i,j;
-
+	int times,i,j;
 	scanf("%d",&times);
 
-	for(int k = 0 ; k < times ; k++ ){
-		memset(maze,0,sizeof(maze));
+	int **maze = new int*[MAX];
+	int **ans = new int*[MAX];
+	for( i = 0 ; i < MAX ; i++ ){
+		maze[i] = new int[MAX];
+		ans[i] = new int[MAX];
+	}
 
+	int x,y;
+	pair<int,int> tmp;
+	while( times-- ){
 		scanf("%d %d",&x,&y);
-		for( i = 0 ; i < x ; i++ ){
-			for( j = 0 ; j < y ; j++ ){
-				scanf("%d",&tmp);
-				if( i == 0 )
-					maze[j] = tmp;
-				else if( j == 0 )
-					maze[j] = maze[j] + tmp;
-				else
-					maze[j] = tmp + min(maze[j],maze[j-1]);
-			}
+		for( i = 0 ; i < x ; i++ )
+			for( j = 0 ; j < y ; j++ )
+				scanf("%d",&maze[i][j]),ans[i][j]=INF;
+
+		priority_queue < pair<int,int> , vector< pair<int,int> > , greater< pair<int,int> > > PQ;
+
+		tmp.first = tmp.second = 0;
+		PQ.push(tmp);
+
+		while( !PQ.empty() ){
+			tmp = PQ.top();
+			PQ.pop();
+			
+
+			
 		}
-
-
 
 	}
 
-
+	for( i = 0; i < MAX ; i++){
+		delete [] maze[i];
+		delete [] ans[i];
+	}
+	delete [] maze;
+	delete [] ans;
 
 	return 0;
 }
