@@ -10,6 +10,15 @@ using namespace std;
 #define MAX 1005
 #define INF 2147483647
 
+struct Point{
+	int x,y,d;
+	Point(int a, int b, int c){
+		x = a;
+		y = b;
+		d = c;
+	}
+	bool operator < (const Node& a)const{ return d>a.d; }
+};
 
 int main(int argc, char const *argv[])
 {
@@ -32,20 +41,18 @@ int main(int argc, char const *argv[])
 	pair<int,int> tmp;
 	while( times-- ){
 		scanf("%d %d",&x,&y);
-		for( i = 0 ; i < x ; i++ )
-			for( j = 0 ; j < y ; j++ )
+		for( i = 1 ; i <= x ; i++ )
+			for( j = 1 ; j <= y ; j++ )
 				scanf("%d",&maze[i][j]),ans[i][j]=INF;
 
-		priority_queue < pair<int,int> , vector< pair<int,int> > , greater< pair<int,int> > > PQ;
+		priority_queue < Point > PQ;
 
-		tmp.first = tmp.second = 0;
-		PQ.push(tmp);
+		ans[1][1] = maze[1][1];
+		PQ.push(Point(1,1,ans[1][1]));
 
 		while( !PQ.empty() ){
 			tmp = PQ.top();
 			PQ.pop();
-			
-
 			
 		}
 
