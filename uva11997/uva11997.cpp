@@ -6,7 +6,7 @@ using namespace std;
 #define PROBLEM "11997"
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
-
+#define pair<int,int> PII
 int main(int argc, char const *argv[])
 {
 	#ifdef DBG
@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
 
 	int number,i,j,k;
 	int one[800],two[800];
-	pair <int,int> tmp;
+	PII tmp;
 
 	while( ~scanf("%d",&number) ){
 		
@@ -25,7 +25,7 @@ int main(int argc, char const *argv[])
 		sort(one,one+number);
 
 		for( k = 1 ; k < number ; k++ ){
-			priority_queue <pair <int,int>,vector<pair <int,int>>,greater<pair <int,int>>> PQ;
+			priority_queue < PII , vector < PII > , greater < PII > > PQ;
 			
 			for( i = 0 ; i < number ; i++ )
 				scanf("%d",&two[i]);
