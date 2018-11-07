@@ -37,20 +37,17 @@ int main(int argc, char const *argv[])
 		sort(&bag[0],&bag[num]);
 
 		tmp = 0;
-		for( j = num-1 ; j >= 0 ; j-- ){
+		int left = 0;
+		int right = num-1;
 
-			if( tmp == j )
-				check = 1;
-			else if( bag[j] + bag[tmp] <= weight ){
-				tmp++;
-				if( tmp == j )
-					check = 1;
-			}
+		for( j = 0 ; j < num ; j-- ){
 
+			if( bag[left] + bag[right] <= weight )
+				left++;
+			right--;
 			ans++;
-			if( check == 1 )
+			if( right < left )
 				break;
-
 		}
 
 		if( i != 0 )

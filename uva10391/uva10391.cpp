@@ -52,21 +52,13 @@ int main(int argc, char const *argv[])
 		
 		number = BKDRHash(word[i].c_str());
 
-		if( arr[number]->next == NULL ){
-			arr[number]->data = i;
-			table *Newnode;
-			Newnode = new table;
-			arr[number]->next = Newnode; 
-		}
-		else{
-			tmp = arr[number];
-			while( tmp->next != NULL )
-				tmp = tmp->next;
-			tmp->data = i;
-			table *Newnode;
-			Newnode = new table;
-			tmp->next = Newnode;
-		}
+		tmp = arr[number];
+		while( tmp->next != NULL )
+			tmp = tmp->next;
+		tmp->data = i;
+		table *Newnode;
+		Newnode = new table;
+		tmp->next = Newnode;
 
 		i++;
 	}
@@ -74,7 +66,7 @@ int main(int argc, char const *argv[])
 	int TMP = i;
 	string one,two;
 	int check,j;
-	// printf("fuck\n");
+
 	for( i = 0 ; i < TMP ; i++ ){
 		for( j = 1 ; j < word[i].size() ; j++ ){
 			check = 0;
