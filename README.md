@@ -20,7 +20,7 @@
 * [x] uva557 - Burger
 * [x] uva579 - ClockHands
 * [x] uva591 - Box of Bricks
-* [ ] uva673 - Parentheses Balance
+* [x] uva673 - Parentheses Balance
 * [x] uva674 - Coin Change
 * [x] uva686 - Goldbach's Conjecture (II)
 * [x] uva825 - Walking on the Safe Side
