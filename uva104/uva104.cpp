@@ -22,60 +22,59 @@ int main(int argc, char const *argv[])
 	double tmp;
 	int ans[21];
 
-	while( scanf("%d",&type) != EOF ){
+	while( ~scanf("%d",&type) ){
 		
 		memset(coin,0,sizeof(coin));
 		memset(path,0,sizeof(path));
 		memset(ans,0,sizeof(ans));
 
-		for(i=0;i<type;i=i+1){
-			for(j=0;j<type;j=j+1){
-				if(i==j)
-					coin[0][i][j]=1;
+		for( i = 0 ; i < type ; i++ ){
+			for( j = 0 ; j < type ; j++ ){
+				if( i == j )
+					coin[0][i][j] = 1;
 				else
 					scanf("%lf",&coin[0][i][j]);
-				path[0][i][j]=i;
+				path[0][i][j] = i;
 			}
 		}
 
-		for(step=1;step<type;step=step+1){
-			for(k=0;k<type;k=k+1){
-				for(i=0;i<type;i=i+1){
-					for(j=0;j<type;j=j+1){
+		for( step = 1 ; step < type ; step++ ){
+			for( k = 0 ; k < type ; k++ ){
+				for( i = 0 ; i < type ; i++ ){
+					for( j = 0 ; j < type ; j++ ){
 						tmp = coin[step-1][i][k] * coin[0][k][j];
-						if(tmp > coin[step][i][j] && j!=k){
-							coin[step][i][j]=tmp;
-							path[step][i][j]=k;
+						if( tmp > coin[step][i][j] && j != k ){
+							coin[step][i][j] = tmp;
+							path[step][i][j] = k;
 						}
 					}
 				}
 			}
 		}
 
-		target=-1;
-		for(step=1;step<type;step=step+1){
-			for(i=0;i<type;i=i+1){
+		target = -1;
+		for( step = 1 ; step < type ; step++ ){
+			for( i = 0 ; i < type ; i++ ){
 				if( coin[step][i][i] > 1.01 ){
-					target=i;
+					target = i;
 					break;
 				}
 			}
-			if(target!=-1)
+			if( target != -1)
 				break;
 		}
 
-		if(target==-1)
+		if( target == -1 )
 			printf("no arbitrage sequence exists\n");
 		else{
-			correct=target;
-			ans[0]=target+1;
-			for(i=step;i>0;i=i-1){
-				correct=path[step][target][correct];
-				ans[i]=correct+1;
+			correct = target;
+			ans[0] = target + 1;
+			for( i = step ; i > 0 ; i-- ){
+				correct = path[step][target][correct];
+				ans[i] = correct + 1;
 			}
-			for(i=0;i<=step;i=i+1){
+			for( i = 0 ; i <= step ; i++ )
 				printf("%d ",ans[i] );
-			}
 			printf("%d\n",ans[0] );
 		}
 
