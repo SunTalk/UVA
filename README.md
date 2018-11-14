@@ -7,6 +7,7 @@
 * [x] uva113 - Power of Cryptography
 * [x] uva118 - Mutant Flatworld Explorers
 * [x] uva127 - "Accordian" Patience
+* [x] uva147 - Dollars 
 * [x] uva130 - Roman Roulette
 * [ ] uva221 - Urban Elevations
 * [x] uva272 - TeX Quotes
