@@ -28,6 +28,7 @@
 * [x] uva913 - Joana and the Odd Numbers
 * [ ] uva929 - Number Maze
 * [x] uva1149 - Bin Packing
+* [x] uva1225 - Digit Counting
 * [x] uva1605 - Building for UN
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
