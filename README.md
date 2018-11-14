@@ -43,6 +43,7 @@
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
 * [x] uva10776 - Determine The Combination
+* [ ] uva10819 - Trouble of 13-Dots
 * [x] uva10920 - Spiral Tap
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem
