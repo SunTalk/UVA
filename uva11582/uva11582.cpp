@@ -13,7 +13,6 @@ int POW_MOD( ULL x, ULL n, ULL k){
 
 	if( n == 0 )
 		return 1;
-
 	ULL tmp = POW_MOD(x,n/2,k);
 	ULL ans = (ULL)tmp*tmp%k;
 	if( n % 2 == 1 )
