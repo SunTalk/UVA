@@ -42,6 +42,7 @@
 * [x] uva10130 - SuperSale
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
+* [x] uva10645 - Homer Simpson
 * [x] uva10776 - Determine The Combination
 * [ ] uva10819 - Trouble of 13-Dots
 * [x] uva10920 - Spiral Tap
