@@ -4,7 +4,9 @@
 * [x] uva102 - Ecological Bin Packing
 * [x] uva104 - Arbitrage
 * [x] uva107 - The Cat in the Hat
+* [x] uva108 - Maximum Sum
 * [x] uva113 - Power of Cryptography
+* [x] uva116 - Unidirectional TSP
 * [x] uva118 - Mutant Flatworld Explorers
 * [x] uva127 - "Accordian" Patience
 * [x] uva147 - Dollars 
