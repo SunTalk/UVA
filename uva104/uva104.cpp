@@ -39,9 +39,9 @@ int main(int argc, char const *argv[])
 		}
 
 		for( step = 1 ; step < type ; step++ ){
-			for( k = 0 ; k < type ; k++ ){
-				for( i = 0 ; i < type ; i++ ){
-					for( j = 0 ; j < type ; j++ ){
+			for( i = 0 ; i < type ; i++ ){
+				for( j = 0 ; j < type ; j++ ){
+					for( k = 0 ; k < type ; k++ ){
 						tmp = coin[step-1][i][k] * coin[0][k][j];
 						if( tmp > coin[step][i][j] && j != k ){
 							coin[step][i][j] = tmp;
