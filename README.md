@@ -42,6 +42,7 @@
 * [x] uva10082 - WERTYU
 * [x] uva10107 - What is the Median?
 * [x] uva10130 - SuperSale
+* [ ] uva10237 - Bishops
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
 * [x] uva10645 - Homer Simpson
