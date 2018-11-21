@@ -6,37 +6,7 @@ using namespace std;
 #define PROBLEM "10237"
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
-
-int number,bis_size,ans;
-int bishop[35][35];
-int Left[70],Right[70];
-void Bishops(int x,int y,int num){
-
-	if( y == bis_size ){
-		Bishops(x+1,0,num);
-		return;
-	}
-
-	if( num == number ){
-		ans++;
-		return;
-	}
-
-	for( int i = x ; i < bis_size ; i++ ){
-		for( int j = y ; j < bis_size ; j++ ){
-			int left,right;
-			left = j - i + bis_size-1;
-			right = i + j;
-			if( !Left[left] && !Right[right] ){
-				Left[left] = Right[right] = 1;
-				Bishops(i,j+1,num+1);
-				Left[left] = Right[right] = 0;
-			}
-		}
-	}
-
-}
-
+#define N 35
 
 int main(int argc, char const *argv[])
 {
@@ -45,17 +15,50 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	while( ~scanf("%d %d",&bis_size,&number) ){
 
-		if( !bis_size && !number )
+	long long Odd[N][N*N],Even[N][N*N];
+	long long ans,bishop,number;
+	long long len,i,j;
+
+	while( ~scanf("%lld %lld",&bishop,&number) ){
+
+		if( !bishop && !number )
 			break;
 
+		memset(Odd,0,sizeof(Odd));
+		memset(Even,0,sizeof(Even));
+
+		Odd[0][0] = 1;
+
+		for( i = 1 ; i <= bishop ; i++ ){
+
+			Odd[i][0] = 1;
+			len = (i+1)/2 * 2 - 1;
+
+			for( j = 1 ; j <= len && j <= number ; j++ ){
+				Odd[i][j] = Odd[i-1][j] + Odd[i-1][j-1]*(len-(j-1));
+			}
+		}
+		
+		Even[0][0] = Even[1][0] = 1;
+
+		for( i = 2 ; i <= bishop ; i++ ){
+
+			Even[i][0] = 1;
+			len = i/2 * 2;
+
+			for( j = 1 ; j <= len && j <= number ; j++ ){
+				Even[i][j] = Even[i-1][j] + Even[i-1][j-1]*(len-(j-1));
+			}
+		}
+
 		ans = 0;
-		memset(bishop,0,sizeof(bishop));
-		memset(Left,0,sizeof(Left));
-		memset(Right,0,sizeof(Right));
-		Bishops(0,0,0);
-		printf("%d\n",ans );
+		for( i = 0 ; i <= number ; i++ ){
+			ans = ans + Odd[bishop][i]*Even[bishop][number-i];
+		}
+
+		printf("%lld\n",ans );
+
 	}
 
 	return 0;
