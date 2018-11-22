@@ -12,15 +12,6 @@ int HashNumber(int k){
 	return abs(k) % Max_size;
 }
 
-struct HashTable{
-	HashTable(){
-		data = INT_MAX;
-		next = NULL;
-	}
-	int data;
-	HashTable *next;
-};
-
 int main(int argc, char const *argv[])
 {
 	#ifdef DBG
@@ -29,16 +20,13 @@ int main(int argc, char const *argv[])
 	#endif
 
 	int A[4005], B[4005], C[4005], D[4005];
-	int times, number, i, j;
+	int times, number, i, j, k;
 	int seat,mix;
+	vector<int> table[Max_size];
 
 	scanf("%d",&times);
 
 	while( times-- ){
-
-		HashTable *del, *tmp, *table[Max_size];
-		for( i = 0 ; i < Max_size ; i++ )
-			table[i] = new HashTable;
 
 		scanf("%d",&number);
 		for( i = 0 ; i < number ; i++ )
@@ -48,13 +36,7 @@ int main(int argc, char const *argv[])
 			for( j = 0 ; j < number ; j++ ){
 				mix = A[i] + B[j];
 				seat = HashNumber(mix);
-				tmp = table[seat];
-				while( tmp->next != NULL )
-					tmp = tmp->next;
-				tmp->data = mix;
-				HashTable *Newnode;
-				Newnode = new HashTable;
-				tmp->next = Newnode;
+				table[seat].push_back(mix);
 			}
 		}
 
@@ -63,28 +45,20 @@ int main(int argc, char const *argv[])
 			for( j = 0 ; j < number ; j++ ){
 				mix = ( C[i] + D[j] ) * (-1);
 				seat = HashNumber(mix);
-				tmp = table[seat];
-				while( tmp->data != INT_MAX ){
-					if( tmp->data == mix )
+				for( k = 0 ; k < table[seat].size() ; k++ ){
+					if( table[seat][k] == mix )
 						ans++;
-					tmp = tmp->next;
 				}
 			}
 		}
 
+		for( i = 0 ; i < Max_size ; i++ )
+			table[i].clear();
+
+
 		printf("%d\n",ans );
 		if( times != 0 )
 			printf("\n");
-
-		for( i = 0 ; i < Max_size ; i++ ){
-			tmp = table[i];
-			while( tmp->next != NULL ){
-				del = tmp;
-				tmp = tmp->next;
-				delete del;
-			}
-			delete tmp;
-		}
 
 	}
 
