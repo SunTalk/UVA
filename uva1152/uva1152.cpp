@@ -55,7 +55,6 @@ int main(int argc, char const *argv[])
 		for( i = 0 ; i < Max_size ; i++ )
 			table[i].clear();
 
-
 		printf("%d\n",ans );
 		if( times != 0 )
 			printf("\n");
