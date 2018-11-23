@@ -6,7 +6,7 @@ using namespace std;
 #define PROBLEM "1152"
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
-#define Max_size 10000005
+#define Max_size 100005
 
 int HashNumber(int k){
 	return abs(k) % Max_size;
