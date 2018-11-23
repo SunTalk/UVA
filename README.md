@@ -31,7 +31,7 @@
 * [x] uva913 - Joana and the Odd Numbers
 * [ ] uva929 - Number Maze
 * [x] uva1149 - Bin Packing
-* [ ] uva1152 - 4 Values whose Sum is 0
+* [x] uva1152 - 4 Values whose Sum is 0
 * [x] uva1225 - Digit Counting
 * [ ] uva1513 - Movie collection
 * [x] uva1605 - Building for UN
