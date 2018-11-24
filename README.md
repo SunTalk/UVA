@@ -11,6 +11,7 @@
 * [x] uva127 - "Accordian" Patience
 * [x] uva147 - Dollars 
 * [x] uva130 - Roman Roulette
+* [x] uva151 - Power Crisis
 * [ ] uva221 - Urban Elevations
 * [x] uva272 - TeX Quotes
 * [x] uva352 - The Seasonal War
