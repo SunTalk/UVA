@@ -13,7 +13,7 @@
 * [x] uva130 - Roman Roulette
 * [x] uva151 - Power Crisis
 * [ ] uva221 - Urban Elevations
-* [ ] uva256 - Quirksome Squares
+* [x] uva256 - Quirksome Squares
 * [x] uva272 - TeX Quotes
 * [x] uva352 - The Seasonal War
 * [x] uva357 - Let Me Count The Ways
