@@ -45,8 +45,10 @@
 * [x] uva10062 - Tell me the frequencies!
 * [x] uva10071 - Back to High School Physics
 * [x] uva10082 - WERTYU
+* [x] uva10106 - Product
 * [x] uva10107 - What is the Median?
 * [x] uva10130 - SuperSale
+* [x] uva10178 - Count the Faces.
 * [x] uva10237 - Bishops
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
