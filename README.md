@@ -39,7 +39,7 @@
 * [x] uva1513 - Movie collection
 * [x] uva1605 - Building for UN
 * [x] uva1610 - Party Games
-* [ ] uva1619 - Feel Good 
+* [x] uva1619 - Feel Good 
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
 * [x] uva10038 - Jolly Jumpers
