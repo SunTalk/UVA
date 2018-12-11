@@ -34,6 +34,7 @@
 * [ ] uva929 - Number Maze
 * [x] uva1149 - Bin Packing
 * [x] uva1152 - 4 Values whose Sum is 0
+* [x] uva1213 - Sum of Different Primes
 * [x] uva1225 - Digit Counting
 * [x] uva1234 - RACING
 * [x] uva1513 - Movie collection
