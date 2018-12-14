@@ -66,6 +66,7 @@
 * [x] uva11352 - Crazy King
 * [ ] uva11367 - Full Tank?
 * [ ] uva11374 - Airport Express
+* [x] uva11491 - Erasing and Winning
 * [ ] uva11542 - Square
 * [x] uva11582 - Colossal Fibonacci Numbers!
 * [x] uva11997 - K Smallest Sums
