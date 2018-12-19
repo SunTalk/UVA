@@ -55,6 +55,7 @@
 * [x] uva10237 - Bishops
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
+* [x] uva10550 - Combination Lock
 * [x] uva10645 - Homer Simpson
 * [x] uva10776 - Determine The Combination
 * [ ] uva10819 - Trouble of 13-Dots
