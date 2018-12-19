@@ -69,6 +69,7 @@
 * [x] uva11491 - Erasing and Winning
 * [ ] uva11542 - Square
 * [x] uva11582 - Colossal Fibonacci Numbers!
+* [x] uva11995 - I Can Guess the Data Structure!
 * [x] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12406 - Help Dexter
