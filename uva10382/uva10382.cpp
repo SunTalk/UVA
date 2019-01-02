@@ -14,14 +14,13 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	double num,len;
-	double wei;
+	double num,len,wei;
 	vector <pair <double,double>> range;
-	pair <double,double> tmp;
 	double one,two;
 	double count;
 
 	while( ~scanf("%lf %lf %lf",&num,&len,&wei) ){
+
 		wei = wei/2;
 		wei = wei*wei;
 
@@ -31,34 +30,29 @@ int main(int argc, char const *argv[])
 			count = count - wei;
 			if( count  > 0 ){
 				count = sqrt(count);
-				tmp.first = one - count; 
-				tmp.second = one + count;
-				range.push_back(tmp);
+				range.emplace_back(one - count, one + count);
 			}
 		}
 
 		sort(range.begin(),range.end());
-		
-		// for(int i= 0 ; i < range.size() ; i++ )
-		// 	printf("%lf %lf\n",range[i].first,range[i].second );
-		// printf("\n");
 
 		double check_l = 0;
 		double check_r = 0;
 		int ans = 0;
 		int times = 0;
 		for(int i = 0 ; i < range.size() ; ){
-			while( range[i].first <= check_l ){
+			while( range[i].first <= check_l && i < range.size() ){
 				if( range[i].second > check_r )
 					check_r = range[i].second;
 				i++;
 			}
 			ans++;
+			times++;
 
-			if( check_r > len )
+			if( check_r >= len )
 				break;
 
-			if( check_r < check_l ){
+			if( check_r < check_l || times > range.size() ){
 				ans = -1;
 				break;
 			}
