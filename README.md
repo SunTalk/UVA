@@ -12,6 +12,7 @@
 * [x] uva147 - Dollars 
 * [x] uva130 - Roman Roulette
 * [x] uva151 - Power Crisis
+* [x] uva167 - The Sultan's Successors
 * [ ] uva221 - Urban Elevations
 * [x] uva256 - Quirksome Squares
 * [x] uva272 - TeX Quotes
@@ -34,6 +35,7 @@
 * [ ] uva929 - Number Maze
 * [x] uva1149 - Bin Packing
 * [x] uva1152 - 4 Values whose Sum is 0
+* [x] uva1210 - Sum of Consecutive Prime Numbers
 * [x] uva1213 - Sum of Different Primes
 * [x] uva1225 - Digit Counting
 * [x] uva1234 - RACING
@@ -67,6 +69,7 @@
 * [x] uva11352 - Crazy King
 * [ ] uva11367 - Full Tank?
 * [ ] uva11374 - Airport Express
+* [x] uva11389 - The Bus Driver Problem
 * [x] uva11491 - Erasing and Winning
 * [ ] uva11542 - Square
 * [x] uva11582 - Colossal Fibonacci Numbers!
