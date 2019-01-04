@@ -8,6 +8,7 @@
 * [x] uva113 - Power of Cryptography
 * [x] uva116 - Unidirectional TSP
 * [x] uva118 - Mutant Flatworld Explorers
+* [x] uva122 - Trees on the level
 * [x] uva127 - "Accordian" Patience
 * [x] uva147 - Dollars 
 * [x] uva130 - Roman Roulette
