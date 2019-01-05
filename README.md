@@ -40,6 +40,7 @@
 * [x] uva1213 - Sum of Different Primes
 * [x] uva1225 - Digit Counting
 * [x] uva1234 - RACING
+* [ ] uva1312 - Cricket Field
 * [x] uva1513 - Movie collection
 * [x] uva1605 - Building for UN
 * [x] uva1610 - Party Games
@@ -59,8 +60,8 @@
 * [x] uva10382 - Watering Grass
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
+* [x] uva10465 - Homer Simpson
 * [x] uva10550 - Combination Lock
-* [x] uva10645 - Homer Simpson
 * [x] uva10776 - Determine The Combination
 * [ ] uva10819 - Trouble of 13-Dots
 * [x] uva10920 - Spiral Tap
