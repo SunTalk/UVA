@@ -56,6 +56,7 @@
 * [x] uva10130 - SuperSale
 * [x] uva10178 - Count the Faces.
 * [x] uva10237 - Bishops
+* [x] uva10382 - Watering Grass
 * [x] uva10391 - Compound Words
 * [x] uva10409 - Die Game
 * [x] uva10550 - Combination Lock
