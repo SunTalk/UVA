@@ -33,9 +33,6 @@ int main(int argc, char const *argv[])
 		tree[num+1].second = y;
 		sort(&tree[0],&tree[num+2]);
 
-		// for( i = 0 ; i < num+2 ; i++ )
-		// 	printf("%d %d\n",tree[i].first,tree[i].second);
-		// printf("\n");
 		ans = ans_x = ans_y = 0;
 		for( i = 0 ; i < num+2 ; i++ ){
 			for( j = i+1 ; j < num+2 ; j++ ){
@@ -58,19 +55,18 @@ int main(int argc, char const *argv[])
 						ans_x = tree[i].first;
 						ans_y = cnt;
 					}
-					// printf("check: %d %d %d\n",tree[i].first,cnt,check );
-					// printf("data: %d %d %d\n\n",i,j,tmp);
 					cnt = tmp;
 					PQ.pop();
 				}
 					
 			}
-			// printf("----------------------------------\n");
+
 		}
 
 		printf("%d %d %d\n",ans_x,ans_y,ans );
 		if( times != 0 )
 			printf("\n");
+		
 	}
 
 	return 0;
