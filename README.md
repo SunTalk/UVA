@@ -40,7 +40,7 @@
 * [x] uva1213 - Sum of Different Primes
 * [x] uva1225 - Digit Counting
 * [x] uva1234 - RACING
-* [ ] uva1312 - Cricket Field
+* [x] uva1312 - Cricket Field
 * [x] uva1513 - Movie collection
 * [x] uva1605 - Building for UN
 * [x] uva1610 - Party Games
