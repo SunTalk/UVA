@@ -34,10 +34,6 @@ int main(int argc, char const *argv[])
 		}
 
 		for( i = 1 ; i <= days ; i++ ){
-			if( num[i] == 0 ){
-				left[i] == i;
-				continue;
-			}
 			tmp = i-1;
 			while( num[tmp] >= num[i] && tmp > 0 )
 				tmp = left[tmp]-1;
@@ -45,10 +41,6 @@ int main(int argc, char const *argv[])
 		}
 
 		for( i = days ; i > 0 ; i-- ){
-			if( num[i] == 0 ){
-				right[i] == i;
-				continue;
-			}
 			tmp = i+1;
 			while( num[tmp] >= num[i] && tmp <= days )
 				tmp = right[tmp]+1;
