@@ -75,6 +75,7 @@
 * [ ] uva11367 - Full Tank?
 * [ ] uva11374 - Airport Express
 * [x] uva11389 - The Bus Driver Problem
+* [x] uva11401 - Triangle Counting
 * [x] uva11491 - Erasing and Winning
 * [ ] uva11542 - Square
 * [x] uva11582 - Colossal Fibonacci Numbers!
