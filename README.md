@@ -68,6 +68,7 @@
 * [x] uva10776 - Determine The Combination
 * [ ] uva10819 - Trouble of 13-Dots
 * [x] uva10920 - Spiral Tap
+* [x] uva10922 - 2 the 9s
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem
 * [x] uva11235 - Frequent Values
