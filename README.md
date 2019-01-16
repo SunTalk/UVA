@@ -34,6 +34,7 @@
 * [x] uva825 - Walking on the Safe Side
 * [x] uva913 - Joana and the Odd Numbers
 * [ ] uva929 - Number Maze
+* [x] uva993 - Product of digits
 * [x] uva1149 - Bin Packing
 * [x] uva1152 - 4 Values whose Sum is 0
 * [x] uva1210 - Sum of Consecutive Prime Numbers
