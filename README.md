@@ -24,6 +24,7 @@
 * [x] uva477 - Points in Figures: Rectangles and Circles
 * [x] uva488 - Triangle Wave
 * [x] uva494 - Kindergarten Counting Game
+* [x] uva524 - Prime Ring Problem
 * [x] uva557 - Burger
 * [x] uva579 - ClockHands
 * [x] uva591 - Box of Bricks
