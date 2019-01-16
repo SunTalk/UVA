@@ -84,6 +84,7 @@
 * [x] uva11995 - I Can Guess the Data Structure!
 * [x] uva11997 - K Smallest Sums
 * [x] uva12208 - How Many Ones Needed?
+* [x] uva12347 - Binary Search Tree
 * [x] uva12406 - Help Dexter
 * [x] uva12414 - Calculating Yuan Fen
 * [x] uva12461 - Airplane
