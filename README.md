@@ -63,6 +63,7 @@
 * [x] uva10237 - Bishops
 * [x] uva10382 - Watering Grass
 * [x] uva10391 - Compound Words
+* [x] uva10405 - Longest Common Subsequence
 * [x] uva10409 - Die Game
 * [x] uva10465 - Homer Simpson
 * [x] uva10550 - Combination Lock
