@@ -19,6 +19,7 @@
 * [x] uva272 - TeX Quotes
 * [x] uva352 - The Seasonal War
 * [x] uva357 - Let Me Count The Ways
+* [x] uva402 - M\*A\*S\*H
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
 * [x] uva477 - Points in Figures: Rectangles and Circles
