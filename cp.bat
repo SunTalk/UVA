@@ -1,5 +1,28 @@
 @echo off
 
+if %1 leq 1000 (
+	goto hun
+)
+
+if %1 leq 10000 (
+	goto tho
+)
+
+if %1 leq 100000 (
+	goto mil
+)
+
+:hun
+	pushd hundred
+	goto run
+:tho
+	pushd thousand
+	goto run
+:mil
+	pushd million
+	goto run
+
+:run
 pushd uva%1
 
 cls
@@ -11,4 +34,5 @@ if %ERRORLEVEL% EQU 0 (
 	uva%1.exe
 )
 
+popd
 popd
