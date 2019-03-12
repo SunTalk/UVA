@@ -50,6 +50,7 @@
 * [x] uva1617 - Laptop
 * [x] uva1619 - Feel Good
 * [x] uva10015 - Joseph's Cousin
+* [x] uva10017 - The Never Ending Towers of Hanoi
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
 * [x] uva10038 - Jolly Jumpers
@@ -69,6 +70,7 @@
 * [x] uva10465 - Homer Simpson
 * [x] uva10550 - Combination Lock
 * [x] uva10570 - Meeting with Aliens
+* [x] uva10684 - The Jackpot
 * [x] uva10776 - Determine The Combination
 * [ ] uva10819 - Trouble of 13-Dots
 * [x] uva10920 - Spiral Tap
