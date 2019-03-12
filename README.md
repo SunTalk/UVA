@@ -76,6 +76,7 @@
 * [x] uva10976 - Fractions Again?!
 * [x] uva11069 - A Graph Problem
 * [x] uva11235 - Frequent Values
+* [x] uva11258 - String Partition
 * [ ] uva11297 - Census
 * [x] uva11352 - Crazy King
 * [ ] uva11367 - Full Tank?
