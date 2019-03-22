@@ -14,6 +14,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
+	* [ ] uva11959 - Dice
 
 ## Finish
 
