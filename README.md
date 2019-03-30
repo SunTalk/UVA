@@ -42,6 +42,7 @@
 	* [x] uva476 - Points in Figures: Rectangles
 	* [x] uva477 - Points in Figures: Rectangles and Circles
 	* [x] uva488 - Triangle Wave
+	* [x] uva490 - Rotating Sentences
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva524 - Prime Ring Problem
 	* [x] uva557 - Burger
