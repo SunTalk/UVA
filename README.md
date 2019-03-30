@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 97
+* Finish: 98
 
 ## Not Finish
 
@@ -70,6 +70,7 @@
 	* [x] uva1234 - RACING
 	* [x] uva1312 - Cricket Field
 	* [x] uva1513 - Movie collection
+	* [x] uva1583 - Digit Generator
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
 	* [x] uva1617 - Laptop
