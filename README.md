@@ -107,6 +107,7 @@
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11636 - Hello World!
+	* [x] uva11678 - Cards' Exchange
 	* [x] uva11959 - Dice
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
