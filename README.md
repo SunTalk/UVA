@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 99
+* Finish: 100
 
 ## Not Finish
 
@@ -97,6 +97,7 @@
 	* [x] uva10409 - Die Game
 	* [x] uva10420 - List of Conquests
 	* [x] uva10465 - Homer Simpson
+	* [x] uva10530 - Guessing Game
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
 	* [x] uva10684 - The Jackpot
