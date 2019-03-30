@@ -97,6 +97,7 @@
 	* [x] uva10922 - 2 the 9s
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11069 - A Graph Problem
+	* [x] uva11192 - Group Reverse
 	* [x] uva11235 - Frequent Values
 	* [x] uva11258 - String Partition
 	* [x] uva11352 - Crazy King
