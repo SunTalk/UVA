@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 98
+* Finish: 99
 
 ## Not Finish
 
@@ -95,6 +95,7 @@
 	* [x] uva10391 - Compound Words
 	* [x] uva10405 - Longest Common Subsequence
 	* [x] uva10409 - Die Game
+	* [x] uva10420 - List of Conquests
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
