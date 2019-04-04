@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 101
+* Finish: 102
 
 ## Not Finish
 
@@ -64,6 +64,7 @@
 * part two
 	* [x] uva1149 - Bin Packing
 	* [x] uva1152 - 4 Values whose Sum is 0
+	* [x] uva1203 - Argus
 	* [x] uva1210 - Sum of Consecutive Prime Numbers
 	* [x] uva1213 - Sum of Different Primes
 	* [x] uva1225 - Digit Counting
