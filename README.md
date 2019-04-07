@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 102
+* Finish: 103
 
 ## Not Finish
 
@@ -58,6 +58,7 @@
 	* [x] uva674 - Coin Change
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva825 - Walking on the Safe Side
+	* [x] uva908 - Re-connecting Computer Sites
 	* [x] uva913 - Joana and the Odd Numbers
 	* [x] uva993 - Product of digits
 
