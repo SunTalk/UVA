@@ -16,6 +16,9 @@ if %1 leq 100000 (
 
 :hun
 pushd hundred
+if EXIST uva%1 (
+	goto exist
+)
 mkdir uva%1
 popd
 type template > hundred\uva%1\uva%1.cpp
@@ -25,6 +28,9 @@ goto end
 
 :tho
 pushd thousand
+if EXIST uva%1 (
+	goto exist
+)
 mkdir uva%1
 popd
 type template > thousand\uva%1\uva%1.cpp
@@ -34,12 +40,20 @@ goto end
 
 :mil
 pushd million
+if EXIST uva%1 (
+	goto exist
+)
 mkdir uva%1
 popd
 type template > million\uva%1\uva%1.cpp
 echo.>million\uva%1\uva%1.in
 echo.>million\uva%1\uva%1.out
 goto end
+
+:exist
+echo uva%1 already exist
+popd
+goto finish
 
 :end
 echo uva%1 Created
@@ -56,4 +70,6 @@ if %ERRORLEVEL% EQU 0 (
 	arrange.exe
 )
 
-echo finsh
+echo finish
+
+:finish

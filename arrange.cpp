@@ -71,6 +71,11 @@ int main(int argc, char const *argv[])
 
 	freopen("README.md","w",stdout);
 	printf("# UVA\n\n");
+
+	printf("## Total\n\n");
+	printf("* Not Finish: %d\n",num_nf.size() );
+	printf("* Finish: %d\n\n",num_f.size() );
+
 	printf("## Not Finish\n\n");
 	printf("* part one\n");
 	for(int i = 0 ; i < not_finish.size() ; i++ ){

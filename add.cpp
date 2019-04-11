@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
 {
 
 	string num = argv[1];
-	cout << "enter the broblem name" << endl;
+	cout << "enter the problem name" << endl;
 	string name;
 	getline(cin,name);
 	
