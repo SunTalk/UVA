@@ -125,6 +125,7 @@
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
 	* [x] uva12208 - How Many Ones Needed?
+	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12347 - Binary Search Tree
 	* [x] uva12406 - Help Dexter
 	* [x] uva12414 - Calculating Yuan Fen
