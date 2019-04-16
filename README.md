@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 106
+* Finish: 107
 
 ## Not Finish
 
@@ -105,6 +105,7 @@
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
 	* [x] uva10684 - The Jackpot
+	* [x] uva10696 - f91
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10920 - Spiral Tap
 	* [x] uva10922 - 2 the 9s
