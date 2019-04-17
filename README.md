@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 106
+* Finish: 107
 
 ## Not Finish
 
@@ -131,6 +131,7 @@
 	* [x] uva12406 - Help Dexter
 	* [x] uva12414 - Calculating Yuan Fen
 	* [x] uva12461 - Airplane
+	* [x] uva12468 - Zapping
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12908 - The book thief
 
