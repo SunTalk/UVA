@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 107
+* Finish: 109
 
 ## Not Finish
 
@@ -107,6 +107,7 @@
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
 	* [x] uva10776 - Determine The Combination
+	* [x] uva10878 - Decode the tape
 	* [x] uva10920 - Spiral Tap
 	* [x] uva10922 - 2 the 9s
 	* [x] uva10976 - Fractions Again?!
