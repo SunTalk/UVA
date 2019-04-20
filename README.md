@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 109
+* Finish: 110
 
 ## Not Finish
 
@@ -95,6 +95,7 @@
 	* [x] uva10130 - SuperSale
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10237 - Bishops
+	* [x] uva10340 - All in All
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
 	* [x] uva10405 - Longest Common Subsequence
