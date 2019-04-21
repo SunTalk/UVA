@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 110
+* Finish: 111
 
 ## Not Finish
 
@@ -85,6 +85,7 @@
 	* [x] uva10017 - The Never Ending Towers of Hanoi
 	* [x] uva10018 - Reverse and Add
 	* [x] uva10035 - Primary Arithmetic
+	* [x] uva10037 - Bridge
 	* [x] uva10038 - Jolly Jumpers
 	* [x] uva10055 - Hashmat the brave warrior
 	* [x] uva10062 - Tell me the frequencies!
