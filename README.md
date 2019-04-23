@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 111
+* Finish: 112
 
 ## Not Finish
 
@@ -41,6 +41,7 @@
 	* [x] uva256 - Quirksome Squares
 	* [x] uva272 - TeX Quotes
 	* [x] uva352 - The Seasonal War
+	* [x] uva353 - Pesky Palindromes
 	* [x] uva357 - Let Me Count The Ways
 	* [x] uva402 - M\*A\*S\*H
 	* [x] uva458 - The Decoder
