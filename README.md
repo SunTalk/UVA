@@ -2,15 +2,14 @@
 
 ## Total
 
-* Not Finish: 9
-* Finish: 113
+* Not Finish: 8
+* Finish: 114
 
 ## Not Finish
 
 * part one
 	* [ ] uva193 - Graph Coloring
 	* [ ] uva221 - Urban Elevations
-	* [ ] uva374 - Big Mod
 	* [ ] uva929 - Number Maze
 
 * part two
@@ -46,6 +45,7 @@
 	* [x] uva352 - The Seasonal War
 	* [x] uva353 - Pesky Palindromes
 	* [x] uva357 - Let Me Count The Ways
+	* [x] uva374 - Big Mod
 	* [x] uva402 - M\*A\*S\*H
 	* [x] uva458 - The Decoder
 	* [x] uva476 - Points in Figures: Rectangles

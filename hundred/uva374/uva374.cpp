@@ -10,9 +10,10 @@ using namespace std;
 // b^p % m
 int bigmode(int b,int p, int m){
 
+	if( p == 0 )
+		return 1;
+	
 	b = b%m;
-	if( p == 1 )
-		return b;
 	int tmp = bigmode(b,p/2,m);
 	tmp = (tmp*tmp)%m;
 	if( p%2 == 1 )
@@ -28,7 +29,6 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM TESTC ".in", "r", stdin);
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
-
 	int b,p,m;
 	while( ~scanf("%d %d %d",&b,&p,&m) ){
 		printf("%d\n",bigmode(b,p,m) );
