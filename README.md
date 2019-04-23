@@ -2,14 +2,15 @@
 
 ## Total
 
-* Not Finish: 7
-* Finish: 112
+* Not Finish: 8
+* Finish: 113
 
 ## Not Finish
 
 * part one
 	* [ ] uva221 - Urban Elevations
 	* [ ] uva929 - Number Maze
+	* [ ] uva374 - Big Mod
 
 * part two
 
