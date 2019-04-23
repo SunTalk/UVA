@@ -2,15 +2,16 @@
 
 ## Total
 
-* Not Finish: 8
+* Not Finish: 9
 * Finish: 113
 
 ## Not Finish
 
 * part one
+	* [ ] uva193 - Graph Coloring
 	* [ ] uva221 - Urban Elevations
-	* [ ] uva929 - Number Maze
 	* [ ] uva374 - Big Mod
+	* [ ] uva929 - Number Maze
 
 * part two
 
