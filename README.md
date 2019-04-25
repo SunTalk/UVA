@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 114
+* Finish: 115
 
 ## Not Finish
 
@@ -39,6 +39,7 @@
 	* [x] uva147 - Dollars 
 	* [x] uva151 - Power Crisis
 	* [x] uva160 - Factors and Factorials
+	* [x] uva166 - Making Change
 	* [x] uva167 - The Sultan's Successors
 	* [x] uva256 - Quirksome Squares
 	* [x] uva272 - TeX Quotes
