@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
 	getline(cin,name);
 	
 	freopen("README.md","a",stdout);
-	cout << "* [ ] uva" << num << " - " << name << endl;
+	cout << "\t" << "* [ ] uva" << num << " - " << name << endl;
 
 	return 0;
 }
