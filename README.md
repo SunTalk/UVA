@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 115
+* Finish: 116
 
 ## Not Finish
 
@@ -56,6 +56,7 @@
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva524 - Prime Ring Problem
 	* [x] uva557 - Burger
+	* [x] uva562 - Dividing coins
 	* [x] uva579 - ClockHands
 	* [x] uva591 - Box of Bricks
 	* [x] uva624 - CD
