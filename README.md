@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 117
+* Finish: 118
 
 ## Not Finish
 
@@ -102,6 +102,7 @@
 	* [x] uva10130 - SuperSale
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10237 - Bishops
+	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10340 - All in All
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
