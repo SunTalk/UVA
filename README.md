@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 118
+* Finish: 119
 
 ## Not Finish
 
@@ -129,6 +129,7 @@
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11582 - Colossal Fibonacci Numbers!
+	* [x] uva11614 - Etruscan Warriors Never Play Chess
 	* [x] uva11636 - Hello World!
 	* [x] uva11678 - Cards' Exchange
 	* [x] uva11747 - Heavy Cycle Edges
