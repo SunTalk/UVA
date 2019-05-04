@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 120
+* Finish: 121
 
 ## Not Finish
 
@@ -101,6 +101,7 @@
 	* [x] uva10107 - What is the Median?
 	* [x] uva10130 - SuperSale
 	* [x] uva10178 - Count the Faces.
+	* [x] uva10192 - Vacation
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10340 - All in All
