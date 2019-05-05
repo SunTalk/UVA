@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 121
+* Finish: 122
 
 ## Not Finish
 
@@ -64,6 +64,7 @@
 	* [x] uva674 - Coin Change
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva825 - Walking on the Safe Side
+	* [x] uva855 - Lunch in Grid City
 	* [x] uva907 - Winterim Backpacking Trip
 	* [x] uva908 - Re-connecting Computer Sites
 	* [x] uva913 - Joana and the Odd Numbers
