@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 122
+* Finish: 123
 
 ## Not Finish
 
@@ -135,6 +135,7 @@
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
 	* [x] uva11636 - Hello World!
 	* [x] uva11678 - Cards' Exchange
+	* [x] uva11689 - Soda Surpler
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11959 - Dice
 	* [x] uva11995 - I Can Guess the Data Structure!
