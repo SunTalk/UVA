@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 123
+* Finish: 124
 
 ## Not Finish
 
@@ -106,6 +106,7 @@
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10340 - All in All
+	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
 	* [x] uva10405 - Longest Common Subsequence
