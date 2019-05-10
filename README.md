@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 125
+* Finish: 126
 
 ## Not Finish
 
@@ -119,6 +119,7 @@
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
 	* [x] uva10721 - Bar Codes
+	* [x] uva10739 - String to Palindrome
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10783 - Odd Sum
 	* [x] uva10878 - Decode the tape
