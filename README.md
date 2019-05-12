@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 127
+* Finish: 128
 
 ## Not Finish
 
@@ -125,6 +125,7 @@
 	* [x] uva10878 - Decode the tape
 	* [x] uva10920 - Spiral Tap
 	* [x] uva10922 - 2 the 9s
+	* [x] uva10929 - You can say 11
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11069 - A Graph Problem
 	* [x] uva11192 - Group Reverse
