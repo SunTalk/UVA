@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 132
+* Finish: 133
 
 ## Not Finish
 
@@ -138,6 +138,7 @@
 	* [x] uva11352 - Crazy King
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
+	* [x] uva11407 - Squares
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
