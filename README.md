@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 133
+* Finish: 134
 
 ## Not Finish
 
@@ -90,6 +90,7 @@
 	* [x] uva1619 - Feel Good
 
 * part three
+	* [x] uva10003 - Cutting Sticks
 	* [x] uva10015 - Joseph's Cousin
 	* [x] uva10017 - The Never Ending Towers of Hanoi
 	* [x] uva10018 - Reverse and Add
