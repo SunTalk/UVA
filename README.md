@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 8
-* Finish: 132
+* Not Finish: 9
+* Finish: 135
 
 ## Not Finish
 
@@ -20,6 +20,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
+	* [ ] uva13194 - DPA Numbers II
 
 ## Finish
 
@@ -89,6 +90,7 @@
 	* [x] uva1619 - Feel Good
 
 * part three
+	* [x] uva10003 - Cutting Sticks
 	* [x] uva10015 - Joseph's Cousin
 	* [x] uva10017 - The Never Ending Towers of Hanoi
 	* [x] uva10018 - Reverse and Add
@@ -138,6 +140,7 @@
 	* [x] uva11352 - Crazy King
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
+	* [x] uva11407 - Squares
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
@@ -160,4 +163,5 @@
 	* [x] uva12468 - Zapping
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12908 - The book thief
+	* [x] uva13185 - DPA Numbers I
 
