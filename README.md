@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 135
+* Finish: 136
 
 ## Not Finish
 
@@ -64,6 +64,7 @@
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
 	* [x] uva686 - Goldbach's Conjecture (II)
+	* [x] uva694 - The Collatz Sequence
 	* [x] uva825 - Walking on the Safe Side
 	* [x] uva855 - Lunch in Grid City
 	* [x] uva884 - Factorial Factors
