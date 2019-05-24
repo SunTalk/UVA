@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 138
+* Finish: 139
 
 ## Not Finish
 
@@ -158,6 +158,7 @@
 	* [x] uva12004 - Bubble Sort
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
+	* [x] uva12289 - One-Two-Three
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12347 - Binary Search Tree
 	* [x] uva12406 - Help Dexter
