@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 139
+* Finish: 140
 
 ## Not Finish
 
@@ -131,6 +131,7 @@
 	* [x] uva10878 - Decode the tape
 	* [x] uva10920 - Spiral Tap
 	* [x] uva10922 - 2 the 9s
+	* [x] uva10924 - Prime Words
 	* [x] uva10929 - You can say 11
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11000 - Bee
