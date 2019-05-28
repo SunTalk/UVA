@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 141
+* Finish: 142
 
 ## Not Finish
 
@@ -77,6 +77,7 @@
 * part two
 	* [x] uva1149 - Bin Packing
 	* [x] uva1152 - 4 Values whose Sum is 0
+	* [x] uva1175 - Ladies' Choice
 	* [x] uva1200 - A DP Problem
 	* [x] uva1203 - Argus
 	* [x] uva1210 - Sum of Consecutive Prime Numbers
