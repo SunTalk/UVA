@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 142
+* Finish: 143
 
 ## Not Finish
 
@@ -143,6 +143,7 @@
 	* [x] uva11235 - Frequent Values
 	* [x] uva11258 - String Partition
 	* [x] uva11352 - Crazy King
+	* [x] uva11364 - Parking
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
