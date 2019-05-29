@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 144
+* Finish: 145
 
 ## Not Finish
 
@@ -87,6 +87,7 @@
 	* [x] uva1312 - Cricket Field
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
+	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
 	* [x] uva1617 - Laptop
