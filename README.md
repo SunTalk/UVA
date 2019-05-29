@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 143
+* Finish: 144
 
 ## Not Finish
 
@@ -170,6 +170,7 @@
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
 	* [x] uva12608 - Garbage Collection
+	* [x] uva12650 - Dangerous Dive
 	* [x] uva12908 - The book thief
 	* [x] uva13185 - DPA Numbers I
 
