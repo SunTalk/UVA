@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 145
+* Finish: 146
 
 ## Not Finish
 
@@ -141,6 +141,7 @@
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
 	* [x] uva11192 - Group Reverse
+	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
 	* [x] uva11258 - String Partition
 	* [x] uva11352 - Crazy King
