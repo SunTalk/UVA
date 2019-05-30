@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 148
+* Finish: 149
 
 ## Not Finish
 
@@ -25,6 +25,7 @@
 ## Finish
 
 * part one
+	* [X] uva612 - DNA Sorting
 	* [x] uva100 - The 3n + 1 problem
 	* [x] uva101 - The Blocks Problem
 	* [x] uva102 - Ecological Bin Packing
