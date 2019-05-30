@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 146
+* Finish: 147
 
 ## Not Finish
 
@@ -67,6 +67,7 @@
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
 	* [x] uva825 - Walking on the Safe Side
+	* [x] uva846 - Steps
 	* [x] uva855 - Lunch in Grid City
 	* [x] uva884 - Factorial Factors
 	* [x] uva907 - Winterim Backpacking Trip
