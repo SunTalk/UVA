@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 147
+* Finish: 148
 
 ## Not Finish
 
@@ -130,6 +130,7 @@
 	* [x] uva10739 - String to Palindrome
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10783 - Odd Sum
+	* [x] uva10810 - Ultra-QuickSort
 	* [x] uva10856 - Recover Factorial
 	* [x] uva10871 - Primed Subsequence
 	* [x] uva10878 - Decode the tape
