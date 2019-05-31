@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 142
+* Finish: 150
 
 ## Not Finish
 
@@ -25,6 +25,7 @@
 ## Finish
 
 * part one
+	* [X] uva612 - DNA Sorting
 	* [x] uva100 - The 3n + 1 problem
 	* [x] uva101 - The Blocks Problem
 	* [x] uva102 - Ecological Bin Packing
@@ -67,6 +68,7 @@
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
 	* [x] uva825 - Walking on the Safe Side
+	* [x] uva846 - Steps
 	* [x] uva855 - Lunch in Grid City
 	* [x] uva884 - Factorial Factors
 	* [x] uva907 - Winterim Backpacking Trip
@@ -77,6 +79,7 @@
 * part two
 	* [x] uva1149 - Bin Packing
 	* [x] uva1152 - 4 Values whose Sum is 0
+	* [x] uva1175 - Ladies' Choice
 	* [x] uva1200 - A DP Problem
 	* [x] uva1203 - Argus
 	* [x] uva1210 - Sum of Consecutive Prime Numbers
@@ -86,6 +89,7 @@
 	* [x] uva1312 - Cricket Field
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
+	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
 	* [x] uva1617 - Laptop
@@ -127,6 +131,7 @@
 	* [x] uva10739 - String to Palindrome
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10783 - Odd Sum
+	* [x] uva10810 - Ultra-QuickSort
 	* [x] uva10856 - Recover Factorial
 	* [x] uva10871 - Primed Subsequence
 	* [x] uva10878 - Decode the tape
@@ -139,9 +144,11 @@
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
 	* [x] uva11192 - Group Reverse
+	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
 	* [x] uva11258 - String Partition
 	* [x] uva11352 - Crazy King
+	* [x] uva11364 - Parking
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
@@ -169,6 +176,7 @@
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
 	* [x] uva12608 - Garbage Collection
+	* [x] uva12650 - Dangerous Dive
 	* [x] uva12908 - The book thief
 	* [x] uva13185 - DPA Numbers I
 
