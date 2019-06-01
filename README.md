@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 150
+* Finish: 151
 
 ## Not Finish
 
@@ -121,6 +121,7 @@
 	* [x] uva10405 - Longest Common Subsequence
 	* [x] uva10409 - Die Game
 	* [x] uva10420 - List of Conquests
+	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10530 - Guessing Game
 	* [x] uva10550 - Combination Lock
