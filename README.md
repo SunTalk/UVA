@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 152
+* Finish: 153
 
 ## Not Finish
 
@@ -92,6 +92,7 @@
 	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
+	* [x] uva1614 - Hell on the Markets
 	* [x] uva1617 - Laptop
 	* [x] uva1619 - Feel Good
 
