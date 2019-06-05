@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 150
+* Finish: 154
 
 ## Not Finish
 
@@ -92,6 +92,7 @@
 	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
+	* [x] uva1614 - Hell on the Markets
 	* [x] uva1617 - Laptop
 	* [x] uva1619 - Feel Good
 
@@ -122,6 +123,7 @@
 	* [x] uva10405 - Longest Common Subsequence
 	* [x] uva10409 - Die Game
 	* [x] uva10420 - List of Conquests
+	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10530 - Guessing Game
 	* [x] uva10550 - Combination Lock
@@ -161,6 +163,7 @@
 	* [x] uva11678 - Cards' Exchange
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11747 - Heavy Cycle Edges
+	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
 	* [x] uva11959 - Dice
 	* [x] uva11995 - I Can Guess the Data Structure!
@@ -179,4 +182,5 @@
 	* [x] uva12650 - Dangerous Dive
 	* [x] uva12908 - The book thief
 	* [x] uva13185 - DPA Numbers I
+	* [x] uva13187 - Felipe and the Sequence
 
