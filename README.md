@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 154
+* Finish: 156
 
 ## Not Finish
 
@@ -58,6 +58,7 @@
 	* [x] uva490 - Rotating Sentences
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva524 - Prime Ring Problem
+	* [x] uva539 - The Settlers of Catan
 	* [x] uva557 - Burger
 	* [x] uva562 - Dividing coins
 	* [x] uva579 - ClockHands
