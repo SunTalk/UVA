@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 157
+* Finish: 158
 
 ## Not Finish
 
@@ -130,6 +130,7 @@
 	* [x] uva10530 - Guessing Game
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
+	* [x] uva10673 - Play with Floor and Ceil
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
 	* [x] uva10721 - Bar Codes
