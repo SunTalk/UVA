@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 158
+* Finish: 159
 
 ## Not Finish
 
@@ -149,6 +149,7 @@
 	* [x] uva11000 - Bee
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
+	* [x] uva11172 - Relational Operator
 	* [x] uva11192 - Group Reverse
 	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
