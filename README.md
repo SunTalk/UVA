@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 159
+* Finish: 160
 
 ## Not Finish
 
@@ -167,6 +167,7 @@
 	* [x] uva11636 - Hello World!
 	* [x] uva11678 - Cards' Exchange
 	* [x] uva11689 - Soda Surpler
+	* [x] uva11727 - Cost Cutting
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
