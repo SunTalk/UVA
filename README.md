@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 160
+* Finish: 161
 
 ## Not Finish
 
@@ -118,6 +118,7 @@
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
+	* [x] uva10300 - Ecological Premium
 	* [x] uva10340 - All in All
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
