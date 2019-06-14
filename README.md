@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 161
+* Finish: 162
 
 ## Not Finish
 
@@ -114,6 +114,7 @@
 	* [x] uva10107 - What is the Median?
 	* [x] uva10130 - SuperSale
 	* [x] uva10178 - Count the Faces.
+	* [x] uva10189 - Minesweeper
 	* [x] uva10192 - Vacation
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
