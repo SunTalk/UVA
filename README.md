@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 162
+* Finish: 163
 
 ## Not Finish
 
@@ -38,6 +38,7 @@
 	* [x] uva122 - Trees on the level
 	* [x] uva127 - "Accordian" Patience
 	* [x] uva130 - Roman Roulette
+	* [x] uva136 - Ugly Numbers
 	* [x] uva147 - Dollars 
 	* [x] uva151 - Power Crisis
 	* [x] uva160 - Factors and Factorials
