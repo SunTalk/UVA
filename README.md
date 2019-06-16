@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 163
+* Finish: 164
 
 ## Not Finish
 
@@ -164,6 +164,7 @@
 	* [x] uva11407 - Squares
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
+	* [x] uva11547 - Automatic Answer
 	* [x] uva11577 - Letter Frequency
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
