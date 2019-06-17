@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 164
+* Finish: 165
 
 ## Not Finish
 
@@ -173,6 +173,7 @@
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11727 - Cost Cutting
 	* [x] uva11747 - Heavy Cycle Edges
+	* [x] uva11799 - Horror Dash
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
 	* [x] uva11959 - Dice
