@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 165
+* Finish: 166
 
 ## Not Finish
 
@@ -157,6 +157,7 @@
 	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
 	* [x] uva11258 - String Partition
+	* [x] uva11332 - Summing Digits
 	* [x] uva11352 - Crazy King
 	* [x] uva11364 - Parking
 	* [x] uva11389 - The Bus Driver Problem
