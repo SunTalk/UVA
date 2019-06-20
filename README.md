@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 164
+* Finish: 165
 
 ## Not Finish
 
@@ -55,6 +55,7 @@
 	* [x] uva458 - The Decoder
 	* [x] uva476 - Points in Figures: Rectangles
 	* [x] uva477 - Points in Figures: Rectangles and Circles
+	* [x] uva483 - Word Scramble
 	* [x] uva488 - Triangle Wave
 	* [x] uva490 - Rotating Sentences
 	* [x] uva494 - Kindergarten Counting Game
