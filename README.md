@@ -2,15 +2,14 @@
 
 ## Total
 
-* Not Finish: 9
-* Finish: 169
+* Not Finish: 8
+* Finish: 171
 
 ## Not Finish
 
 * part one
 	* [ ] uva193 - Graph Coloring
 	* [ ] uva221 - Urban Elevations
-	* [ ] uva929 - Number Maze
 
 * part two
 
@@ -78,6 +77,7 @@
 	* [x] uva907 - Winterim Backpacking Trip
 	* [x] uva908 - Re-connecting Computer Sites
 	* [x] uva913 - Joana and the Odd Numbers
+	* [x] uva929 - Number Maze
 	* [x] uva993 - Product of digits
 
 * part two

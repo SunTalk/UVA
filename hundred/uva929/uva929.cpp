@@ -7,18 +7,31 @@ using namespace std;
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 
-#define MAX 1005
-#define INF 2147483647
+#define MAXN 1000
+#define MAXNUM 0x7f7f7f7f
 
-struct Point{
-	int x,y,d;
-	Point(int a, int b, int c){
-		x = a;
-		y = b;
-		d = c;
-	}
-	bool operator < (const Node& a)const{ return d>a.d; }
+int maze[MAXN+5][MAXN+5];
+int ans[MAXN+5][MAXN+5];
+bool is_visit[MAXN+5][MAXN+5];
+int x_add[4] = {0,-1,1,0};
+int y_add[4] = {-1,0,0,1};
+
+struct Node{
+	int x,y,dis;
+	Node(){};
+	Node(int _x, int _y,int _dis){
+		x = _x;
+		y = _y;
+		dis = _dis;
+	};
+
+	bool operator <(const Node &rhs)const {
+		return dis > rhs.dis;
+	};
+
 };
+priority_queue < Node > PQ;
+Node tmp;
 
 int main(int argc, char const *argv[])
 {
@@ -27,43 +40,51 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
-	int times,i,j;
-	scanf("%d",&times);
-
-	int **maze = new int*[MAX];
-	int **ans = new int*[MAX];
-	for( i = 0 ; i < MAX ; i++ ){
-		maze[i] = new int[MAX];
-		ans[i] = new int[MAX];
-	}
+	int CASE;
+	scanf("%d",&CASE);
 
 	int x,y;
-	pair<int,int> tmp;
-	while( times-- ){
+	while( CASE-- ){
+
+		memset(maze,0,sizeof(maze));
+		memset(ans,0,sizeof(ans));
+		memset(is_visit,0,sizeof(is_visit));
+
 		scanf("%d %d",&x,&y);
-		for( i = 1 ; i <= x ; i++ )
-			for( j = 1 ; j <= y ; j++ )
-				scanf("%d",&maze[i][j]),ans[i][j]=INF;
+		for(int i = 0 ; i <= x+1 ; i++ ){
+			for(int j = 0 ; j <= y+1 ; j++ ){
+				if( i == 0 || j == 0 || i == x+1 || j == y+1 ){
+					is_visit[i][j] = true;
+					maze[i][j] = MAXNUM;
+				}
+				else{
+					scanf("%d",&maze[i][j]);
+					ans[i][j] = MAXNUM;
+				}
+			}
+		}
 
-		priority_queue < Point > PQ;
-
-		ans[1][1] = maze[1][1];
-		PQ.push(Point(1,1,ans[1][1]));
-
+		PQ.emplace(1,1,maze[1][1]);
+		int doo = 1;
+		
 		while( !PQ.empty() ){
 			tmp = PQ.top();
 			PQ.pop();
-			
+
+			if( tmp.dis < ans[tmp.x][tmp.y] && !is_visit[tmp.x][tmp.y] ){
+				is_visit[tmp.x][tmp.y] = true;
+				ans[tmp.x][tmp.y] = tmp.dis;
+				for(int i = 0 ; i < 4 ; i++ ){
+					if( !is_visit[tmp.x+x_add[i]][tmp.y+y_add[i]] )
+						PQ.emplace(tmp.x+x_add[i],tmp.y+y_add[i],tmp.dis+maze[tmp.x+x_add[i]][tmp.y+y_add[i]]);
+				}
+			}
+
 		}
 
+		printf("%d\n",ans[x][y] );
+		
 	}
-
-	for( i = 0; i < MAX ; i++){
-		delete [] maze[i];
-		delete [] ans[i];
-	}
-	delete [] maze;
-	delete [] ans;
 
 	return 0;
 }
