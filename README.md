@@ -55,6 +55,7 @@
 	* [x] uva458 - The Decoder
 	* [x] uva476 - Points in Figures: Rectangles
 	* [x] uva477 - Points in Figures: Rectangles and Circles
+	* [x] uva481 - What Goes Up
 	* [x] uva483 - Word Scramble
 	* [x] uva488 - Triangle Wave
 	* [x] uva490 - Rotating Sentences
