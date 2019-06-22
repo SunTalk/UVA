@@ -6,6 +6,7 @@ using namespace std;
 #define PROBLEM "1149"
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+int bag[100005];
 
 int main(int argc, char const *argv[])
 {
@@ -18,7 +19,6 @@ int main(int argc, char const *argv[])
 	scanf("%d",&case_num);
 
 	int num,weight;
-	int bag[10005];
 	int tmp,ans,i,j;
 	bool check;
 

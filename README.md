@@ -24,7 +24,6 @@
 ## Finish
 
 * part one
-	* [X] uva612 - DNA Sorting
 	* [x] uva100 - The 3n + 1 problem
 	* [x] uva101 - The Blocks Problem
 	* [x] uva102 - Ecological Bin Packing
@@ -65,6 +64,7 @@
 	* [x] uva562 - Dividing coins
 	* [x] uva579 - ClockHands
 	* [x] uva591 - Box of Bricks
+	* [x] uva612 - DNA Sorting
 	* [x] uva624 - CD
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
