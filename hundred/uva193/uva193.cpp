@@ -6,19 +6,59 @@ using namespace std;
 #define PROBLEM "193"
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+#define MAXN 100
 
-vector <int> table[105];
-int tmp[105],ans[105];
+vector <int> EDGE[MAXN+5];
+int color[MAXN+5];
+vector<int> tmp;
+vector<int> ANS;
 int point,edge;
-int ANS;
+int ans;
 
-void solve( int n ){
+enum COLOR{
+	none,
+	white,
+	black
+};
 
-	if( n > ANS ){
-		ANS = n;
-		for(int i = 0; i < 105 ; i++ )
-			ans[i] = tmp[i];
+void DFS(int n){
+
+	if( n > point ){
+		if( tmp.size() > ans ){
+			ans = tmp.size();
+			ANS = tmp;
+		}
+		else if( tmp.size() == ans ){
+			bool change = false;
+			for(int i = 0 ; i < tmp.size() ; i++ ){
+				if( tmp[i] > ANS[i] )
+					change = true;
+			}
+			if( change ){
+				ans = tmp.size();
+				ANS = tmp;
+			}
+		}
+		return;
 	}
+
+	bool is_Black = true;
+	for(int i : EDGE[n] )
+		if( color[i] == black )
+			is_Black = false;
+
+
+	if( is_Black ){
+		tmp.push_back(n);
+		color[n] = black;
+		DFS(n+1);
+		tmp.pop_back();
+		color[n] = none;
+	}
+
+	color[n] = white;
+	DFS(n+1);
+	color[n] = none;
 
 }
 
@@ -31,25 +71,28 @@ int main(int argc, char const *argv[])
 
 	int CASE;
 	scanf("%d",&CASE);
+	int a,b;
 
 	while( CASE-- ){
-
-		memset(tmp,0,sizeof(tmp));
-		memset(ans,0,sizeof(ans));
-		for(int i = 0 ; i < 105 ; i++ )
-			table[i].clear();
-
 		scanf("%d %d",&point,&edge);
 
-		int a,b;
+		for(int i = 1 ; i <= point ; i++ )
+			EDGE[i].clear();
+		memset(color,0,sizeof(color));
+		tmp.clear();
+		ans = 0;
+
 		for(int i = 0 ; i < edge ; i++ ){
 			scanf("%d %d",&a,&b);
-			table[a].push_back(b);
-			table[b].push_back(a);
+			EDGE[a].push_back(b);
+			EDGE[b].push_back(a);
 		}
 
-		
+		DFS(1);
 
+		printf("%d\n",ans );
+		for(int i = 0 ; i < ANS.size() ; i++ )
+			printf("%d%c",ANS[i], ( i == ANS.size()-1 ? '\n':' ' ) );
 
 	}
 

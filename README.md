@@ -2,13 +2,12 @@
 
 ## Total
 
-* Not Finish: 8
-* Finish: 172
+* Not Finish: 7
+* Finish: 173
 
 ## Not Finish
 
 * part one
-	* [ ] uva193 - Graph Coloring
 	* [ ] uva221 - Urban Elevations
 
 * part two
@@ -42,6 +41,7 @@
 	* [x] uva160 - Factors and Factorials
 	* [x] uva166 - Making Change
 	* [x] uva167 - The Sultan's Successors
+	* [x] uva193 - Graph Coloring
 	* [x] uva256 - Quirksome Squares
 	* [x] uva272 - TeX Quotes
 	* [x] uva352 - The Seasonal War
