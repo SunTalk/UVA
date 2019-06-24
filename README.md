@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 173
+* Finish: 174
 
 ## Not Finish
 
@@ -159,6 +159,7 @@
 	* [x] uva11192 - Group Reverse
 	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
+	* [x] uva11241 - Humidex
 	* [x] uva11258 - String Partition
 	* [x] uva11332 - Summing Digits
 	* [x] uva11352 - Crazy King
