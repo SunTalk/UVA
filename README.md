@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 179
+* Finish: 180
 
 ## Not Finish
 
@@ -171,6 +171,7 @@
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
+	* [x] uva11462 - Age Sort
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11547 - Automatic Answer
