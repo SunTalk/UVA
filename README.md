@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 180
+* Finish: 181
 
 ## Not Finish
 
@@ -137,6 +137,7 @@
 	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10530 - Guessing Game
+	* [x] uva10534 - Wavio Sequence
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
 	* [x] uva10673 - Play with Floor and Ceil
