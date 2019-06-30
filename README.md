@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 182
+* Finish: 183
 
 ## Not Finish
 
@@ -202,6 +202,7 @@
 	* [x] uva12414 - Calculating Yuan Fen
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
+	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
 	* [x] uva12908 - The book thief
