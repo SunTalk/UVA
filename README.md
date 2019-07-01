@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 183
+* Finish: 184
 
 ## Not Finish
 
@@ -25,6 +25,7 @@
 	* [x] uva100 - The 3n + 1 problem
 	* [x] uva101 - The Blocks Problem
 	* [x] uva102 - Ecological Bin Packing
+	* [x] uva103 - Stacking Boxes
 	* [x] uva104 - Arbitrage
 	* [x] uva107 - The Cat in the Hat
 	* [x] uva108 - Maximum Sum
