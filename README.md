@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 185
+* Finish: 186
 
 ## Not Finish
 
@@ -201,6 +201,7 @@
 	* [x] uva12347 - Binary Search Tree
 	* [x] uva12406 - Help Dexter
 	* [x] uva12414 - Calculating Yuan Fen
+	* [x] uva12459 - Bees' ancestors
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
 	* [x] uva12602 - Nice Licence Plates
