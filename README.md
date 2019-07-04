@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 186
+* Finish: 187
 
 ## Not Finish
 
@@ -171,6 +171,7 @@
 	* [x] uva11332 - Summing Digits
 	* [x] uva11352 - Crazy King
 	* [x] uva11364 - Parking
+	* [x] uva11368 - Nested Dolls
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
