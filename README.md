@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 187
+* Finish: 188
 
 ## Not Finish
 
@@ -195,6 +195,7 @@
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
+	* [x] uva12149 - Feynman
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
 	* [x] uva12289 - One-Two-Three
