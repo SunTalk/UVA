@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 189
+* Finish: 190
 
 ## Not Finish
 
@@ -191,6 +191,7 @@
 	* [x] uva11799 - Horror Dash
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
+	* [x] uva11942 - Lumberjack Sequencing
 	* [x] uva11959 - Dice
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
