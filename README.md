@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 6
+* Not Finish: 7
 * Finish: 191
 
 ## Not Finish
@@ -13,6 +13,7 @@
 
 * part three
 	* [ ] uva10819 - Trouble of 13-Dots
+	* [x] uva10903 - Rock-Paper-Scissors
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
