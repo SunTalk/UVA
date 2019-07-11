@@ -29,7 +29,7 @@ int main(int argc, char const *argv[])
 		scanf("%d %d",&a,&b);
 		check = a-b;
 
-		for(int i = 0 ; i < num ; i++ ){
+		for(int i = 1 ; i < num ; i++ ){
 			scanf("%d %d",&a,&b);
 			if( a-b != check )
 				ans = false;
