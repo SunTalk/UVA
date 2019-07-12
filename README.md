@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 194
+* Finish: 195
 
 ## Not Finish
 
@@ -138,6 +138,7 @@
 	* [x] uva10420 - List of Conquests
 	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
+	* [x] uva10473 - Simple Base Conversion
 	* [x] uva10530 - Guessing Game
 	* [x] uva10534 - Wavio Sequence
 	* [x] uva10550 - Combination Lock
