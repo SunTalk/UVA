@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 197
+* Finish: 198
 
 ## Not Finish
 
@@ -36,6 +36,7 @@
 	* [x] uva127 - "Accordian" Patience
 	* [x] uva130 - Roman Roulette
 	* [x] uva136 - Ugly Numbers
+	* [x] uva138 - Street Numbers
 	* [x] uva146 - ID Codes
 	* [x] uva147 - Dollars 
 	* [x] uva151 - Power Crisis
