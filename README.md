@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 7
-* Finish: 198
+* Not Finish: 6
+* Finish: 200
 
 ## Not Finish
 
@@ -12,7 +12,6 @@
 * part two
 
 * part three
-	* [x] uva10141 - Request for Proposal
 	* [ ] uva10819 - Trouble of 13-Dots
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
@@ -125,9 +124,11 @@
 	* [x] uva10106 - Product
 	* [x] uva10107 - What is the Median?
 	* [x] uva10130 - SuperSale
+	* [x] uva10141 - Request for Proposal
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10189 - Minesweeper
 	* [x] uva10192 - Vacation
+	* [x] uva10209 - Is This Integration ?
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
