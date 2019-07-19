@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 201
+* Finish: 202
 
 ## Not Finish
 
@@ -148,6 +148,7 @@
 	* [x] uva10534 - Wavio Sequence
 	* [x] uva10550 - Combination Lock
 	* [x] uva10570 - Meeting with Aliens
+	* [x] uva10589 - Area
 	* [x] uva10673 - Play with Floor and Ceil
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
