@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 202
+* Finish: 203
 
 ## Not Finish
 
@@ -157,6 +157,7 @@
 	* [x] uva10739 - String to Palindrome
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10783 - Odd Sum
+	* [x] uva10789 - Prime Frequency
 	* [x] uva10810 - Ultra-QuickSort
 	* [x] uva10856 - Recover Factorial
 	* [x] uva10871 - Primed Subsequence
