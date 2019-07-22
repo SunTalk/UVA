@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 204
+* Finish: 205
 
 ## Not Finish
 
@@ -176,6 +176,7 @@
 	* [x] uva11172 - Relational Operator
 	* [x] uva11185 - Ternary
 	* [x] uva11192 - Group Reverse
+	* [x] uva11204 - Musical instruments
 	* [x] uva11220 - Decoding the message.
 	* [x] uva11235 - Frequent Values
 	* [x] uva11241 - Humidex
