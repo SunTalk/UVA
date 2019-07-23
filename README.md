@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 206
+* Finish: 207
 
 ## Not Finish
 
@@ -188,6 +188,7 @@
 	* [x] uva11368 - Nested Dolls
 	* [x] uva11369 - Shopaholic
 	* [x] uva11389 - The Bus Driver Problem
+	* [x] uva11398 - The Base-1 Number System
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
 	* [x] uva11462 - Age Sort
