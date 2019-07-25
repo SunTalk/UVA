@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 207
+* Finish: 208
 
 ## Not Finish
 
@@ -192,6 +192,7 @@
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
 	* [x] uva11462 - Age Sort
+	* [x] uva11479 - Is this the easiest problem?
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
