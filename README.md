@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 208
+* Finish: 209
 
 ## Not Finish
 
@@ -196,6 +196,7 @@
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
+	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
 	* [x] uva11577 - Letter Frequency
 	* [x] uva11582 - Colossal Fibonacci Numbers!
