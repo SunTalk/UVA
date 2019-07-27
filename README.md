@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 209
+* Finish: 210
 
 ## Not Finish
 
@@ -202,6 +202,7 @@
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
 	* [x] uva11636 - Hello World!
+	* [x] uva11661 - Burger Time
 	* [x] uva11678 - Cards' Exchange
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11727 - Cost Cutting
