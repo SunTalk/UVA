@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 210
+* Finish: 211
 
 ## Not Finish
 
@@ -204,6 +204,7 @@
 	* [x] uva11636 - Hello World!
 	* [x] uva11661 - Burger Time
 	* [x] uva11678 - Cards' Exchange
+	* [x] uva11687 - Digits
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11727 - Cost Cutting
 	* [x] uva11747 - Heavy Cycle Edges
