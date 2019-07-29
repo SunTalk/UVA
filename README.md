@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 211
+* Finish: 212
 
 ## Not Finish
 
@@ -207,6 +207,7 @@
 	* [x] uva11687 - Digits
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11727 - Cost Cutting
+	* [x] uva11743 - Credit Check
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11764 - Jumping Mario
 	* [x] uva11799 - Horror Dash
