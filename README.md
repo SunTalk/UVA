@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 213
+* Finish: 214
 
 ## Not Finish
 
@@ -97,6 +97,7 @@
 	* [x] uva1213 - Sum of Different Primes
 	* [x] uva1225 - Digit Counting
 	* [x] uva1234 - RACING
+	* [x] uva1260 - Sales
 	* [x] uva1312 - Cricket Field
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
