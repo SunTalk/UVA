@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 214
+* Finish: 215
 
 ## Not Finish
 
@@ -217,6 +217,7 @@
 	* [x] uva11936 - The Lazy Lumberjacks
 	* [x] uva11942 - Lumberjack Sequencing
 	* [x] uva11959 - Dice
+	* [x] uva11984 - A Change in Thermal Unit
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
