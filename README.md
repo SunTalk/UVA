@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 215
+* Finish: 216
 
 ## Not Finish
 
@@ -223,6 +223,7 @@
 	* [x] uva12004 - Bubble Sort
 	* [x] uva12019 - Doom's Day Algorithm
 	* [x] uva12149 - Feynman
+	* [x] uva12195 - Jingle Composing
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
 	* [x] uva12289 - One-Two-Three
