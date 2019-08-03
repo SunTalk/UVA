@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 216
+* Finish: 217
 
 ## Not Finish
 
@@ -229,6 +229,7 @@
 	* [x] uva12289 - One-Two-Three
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12347 - Binary Search Tree
+	* [x] uva12405 - Scarecrow
 	* [x] uva12406 - Help Dexter
 	* [x] uva12414 - Calculating Yuan Fen
 	* [x] uva12459 - Bees' ancestors
