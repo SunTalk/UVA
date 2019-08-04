@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 217
+* Finish: 218
 
 ## Not Finish
 
@@ -232,6 +232,7 @@
 	* [x] uva12405 - Scarecrow
 	* [x] uva12406 - Help Dexter
 	* [x] uva12414 - Calculating Yuan Fen
+	* [x] uva12439 - February 29
 	* [x] uva12459 - Bees' ancestors
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
