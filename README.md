@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 218
+* Finish: 219
 
 ## Not Finish
 
@@ -236,6 +236,7 @@
 	* [x] uva12459 - Bees' ancestors
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
+	* [x] uva12563 - Jin Ge Jin Qu hao
 	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
