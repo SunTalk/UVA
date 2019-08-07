@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 220
+* Finish: 221
 
 ## Not Finish
 
@@ -119,6 +119,7 @@
 	* [x] uva10035 - Primary Arithmetic
 	* [x] uva10037 - Bridge
 	* [x] uva10038 - Jolly Jumpers
+	* [x] uva10041 - Vito's family
 	* [x] uva10055 - Hashmat the brave warrior
 	* [x] uva10062 - Tell me the frequencies!
 	* [x] uva10071 - Back to High School Physics
