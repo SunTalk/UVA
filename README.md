@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 221
+* Finish: 222
 
 ## Not Finish
 
@@ -52,6 +52,7 @@
 	* [x] uva353 - Pesky Palindromes
 	* [x] uva357 - Let Me Count The Ways
 	* [x] uva374 - Big Mod
+	* [x] uva401 - Palindromes
 	* [x] uva402 - M\*A\*S\*H
 	* [x] uva412 - Pi
 	* [x] uva424 - Integer Inquiry
