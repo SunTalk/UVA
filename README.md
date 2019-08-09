@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 222
+* Finish: 223
 
 ## Not Finish
 
@@ -147,6 +147,7 @@
 	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10473 - Simple Base Conversion
+	* [x] uva10474 - Where is the Marble?
 	* [x] uva10499 - The Land of Justice
 	* [x] uva10530 - Guessing Game
 	* [x] uva10534 - Wavio Sequence
