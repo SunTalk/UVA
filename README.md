@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 223
+* Finish: 224
 
 ## Not Finish
 
@@ -127,6 +127,7 @@
 	* [x] uva10082 - WERTYU
 	* [x] uva10106 - Product
 	* [x] uva10107 - What is the Median?
+	* [x] uva10110 - Light, more light
 	* [x] uva10130 - SuperSale
 	* [x] uva10141 - Request for Proposal
 	* [x] uva10178 - Count the Faces.
