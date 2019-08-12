@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 225
+* Finish: 226
 
 ## Not Finish
 
@@ -139,6 +139,7 @@
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10340 - All in All
+	* [x] uva10346 - Peter's Smokes
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
