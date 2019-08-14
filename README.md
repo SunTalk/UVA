@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 227
+* Finish: 228
 
 ## Not Finish
 
@@ -125,6 +125,7 @@
 	* [x] uva10055 - Hashmat the brave warrior
 	* [x] uva10062 - Tell me the frequencies!
 	* [x] uva10071 - Back to High School Physics
+	* [x] uva10079 - Pizza Cutting
 	* [x] uva10082 - WERTYU
 	* [x] uva10106 - Product
 	* [x] uva10107 - What is the Median?
