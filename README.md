@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 228
+* Finish: 229
 
 ## Not Finish
 
@@ -91,6 +91,7 @@
 	* [x] uva993 - Product of digits
 
 * part two
+	* [x] uva1124 - Celebrity Jeopardy
 	* [x] uva1149 - Bin Packing
 	* [x] uva1152 - 4 Values whose Sum is 0
 	* [x] uva1175 - Ladies' Choice
