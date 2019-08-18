@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 7
-* Finish: 230
+* Not Finish: 6
+* Finish: 232
 
 ## Not Finish
 
@@ -13,7 +13,6 @@
 
 * part three
 	* [ ] uva10819 - Trouble of 13-Dots
-	* [x] uva10970 - Big Chocolate
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
@@ -180,6 +179,7 @@
 	* [x] uva10924 - Prime Words
 	* [x] uva10929 - You can say 11
 	* [x] uva10963 - The Swallowing Ground
+	* [x] uva10970 - Big Chocolate
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11000 - Bee
 	* [x] uva11044 - Searching for Nessy
@@ -249,6 +249,7 @@
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
 	* [x] uva12563 - Jin Ge Jin Qu hao
+	* [x] uva12577 - Hajj-e-Akbar
 	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
