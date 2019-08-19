@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 232
+* Finish: 233
 
 ## Not Finish
 
@@ -72,6 +72,7 @@
 	* [x] uva539 - The Settlers of Catan
 	* [x] uva557 - Burger
 	* [x] uva562 - Dividing coins
+	* [x] uva575 - Skew Binary
 	* [x] uva579 - ClockHands
 	* [x] uva591 - Box of Bricks
 	* [x] uva612 - DNA Sorting
