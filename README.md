@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 234
+* Finish: 235
 
 ## Not Finish
 
@@ -73,6 +73,7 @@
 	* [x] uva543 - Goldbach's Conjecture
 	* [x] uva557 - Burger
 	* [x] uva562 - Dividing coins
+	* [x] uva573 - The Snail
 	* [x] uva575 - Skew Binary
 	* [x] uva579 - ClockHands
 	* [x] uva591 - Box of Bricks
