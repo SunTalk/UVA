@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 236
+* Finish: 237
 
 ## Not Finish
 
@@ -145,6 +145,7 @@
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10300 - Ecological Premium
+	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
 	* [x] uva10346 - Peter's Smokes
 	* [x] uva10370 - Above Average
