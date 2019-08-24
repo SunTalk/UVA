@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 237
+* Finish: 238
 
 ## Not Finish
 
@@ -242,6 +242,7 @@
 	* [x] uva12195 - Jingle Composing
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
+	* [x] uva12250 - Language Detection
 	* [x] uva12289 - One-Two-Three
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12347 - Binary Search Tree
