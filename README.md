@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 238
+* Finish: 239
 
 ## Not Finish
 
@@ -156,6 +156,7 @@
 	* [x] uva10420 - List of Conquests
 	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
+	* [x] uva10469 - To Carry or not to Carry
 	* [x] uva10473 - Simple Base Conversion
 	* [x] uva10474 - Where is the Marble?
 	* [x] uva10499 - The Land of Justice
