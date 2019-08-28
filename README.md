@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 240
+* Finish: 241
 
 ## Not Finish
 
@@ -51,6 +51,7 @@
 	* [x] uva352 - The Seasonal War
 	* [x] uva353 - Pesky Palindromes
 	* [x] uva357 - Let Me Count The Ways
+	* [x] uva369 - Combinations
 	* [x] uva374 - Big Mod
 	* [x] uva382 - Perfection
 	* [x] uva401 - Palindromes
