@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 242
+* Finish: 243
 
 ## Not Finish
 
@@ -211,6 +211,7 @@
 	* [x] uva11398 - The Base-1 Number System
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
+	* [x] uva11461 - Square Numbers
 	* [x] uva11462 - Age Sort
 	* [x] uva11479 - Is this the easiest problem?
 	* [x] uva11491 - Erasing and Winning
