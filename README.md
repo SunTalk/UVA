@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 244
+* Finish: 245
 
 ## Not Finish
 
@@ -220,6 +220,7 @@
 	* [x] uva11498 - Division of Nlogonia
 	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
+	* [x] uva11559 - Event Planning
 	* [x] uva11577 - Letter Frequency
 	* [x] uva11582 - Colossal Fibonacci Numbers!
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
