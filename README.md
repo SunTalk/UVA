@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 245
+* Finish: 246
 
 ## Not Finish
 
@@ -234,6 +234,7 @@
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11764 - Jumping Mario
 	* [x] uva11799 - Horror Dash
+	* [x] uva11854 - Egypt
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
 	* [x] uva11936 - The Lazy Lumberjacks
