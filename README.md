@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 246
+* Finish: 247
 
 ## Not Finish
 
@@ -194,6 +194,7 @@
 	* [x] uva11044 - Searching for Nessy
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
+	* [x] uva11150 - Cola
 	* [x] uva11172 - Relational Operator
 	* [x] uva11185 - Ternary
 	* [x] uva11192 - Group Reverse
