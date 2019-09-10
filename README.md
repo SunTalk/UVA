@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 248
+* Finish: 249
 
 ## Not Finish
 
@@ -185,6 +185,7 @@
 	* [x] uva10878 - Decode the tape
 	* [x] uva10903 - Rock-Paper-Scissors
 	* [x] uva10920 - Spiral Tap
+	* [x] uva10921 - Find the Telephone
 	* [x] uva10922 - 2 the 9s
 	* [x] uva10924 - Prime Words
 	* [x] uva10929 - You can say 11
