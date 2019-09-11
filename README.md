@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 249
+* Finish: 250
 
 ## Not Finish
 
@@ -71,6 +71,7 @@
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva524 - Prime Ring Problem
 	* [x] uva539 - The Settlers of Catan
+	* [x] uva541 - Error Correction
 	* [x] uva543 - Goldbach's Conjecture
 	* [x] uva557 - Burger
 	* [x] uva562 - Dividing coins
