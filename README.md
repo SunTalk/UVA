@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 250
+* Finish: 251
 
 ## Not Finish
 
@@ -61,6 +61,7 @@
 	* [x] uva437 - The Tower of Babylon
 	* [x] uva438 - The Circumference of the Circle
 	* [x] uva443 - Humble Numbers
+	* [x] uva445 - Marvelous Mazes
 	* [x] uva458 - The Decoder
 	* [x] uva476 - Points in Figures: Rectangles
 	* [x] uva477 - Points in Figures: Rectangles and Circles
