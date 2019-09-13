@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 251
+* Finish: 252
 
 ## Not Finish
 
@@ -70,6 +70,7 @@
 	* [x] uva488 - Triangle Wave
 	* [x] uva490 - Rotating Sentences
 	* [x] uva494 - Kindergarten Counting Game
+	* [x] uva495 - Fibonacci Freeze
 	* [x] uva524 - Prime Ring Problem
 	* [x] uva539 - The Settlers of Catan
 	* [x] uva541 - Error Correction
