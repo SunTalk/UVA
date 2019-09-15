@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 254
+* Finish: 255
 
 ## Not Finish
 
@@ -40,6 +40,7 @@
 	* [x] uva146 - ID Codes
 	* [x] uva147 - Dollars 
 	* [x] uva151 - Power Crisis
+	* [x] uva156 - Ananagrams
 	* [x] uva160 - Factors and Factorials
 	* [x] uva166 - Making Change
 	* [x] uva167 - The Sultan's Successors
