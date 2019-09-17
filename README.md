@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 255
+* Finish: 256
 
 ## Not Finish
 
@@ -259,6 +259,7 @@
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
 	* [x] uva12250 - Language Detection
+	* [x] uva12279 - Emoogle Balance
 	* [x] uva12289 - One-Two-Three
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12347 - Binary Search Tree
