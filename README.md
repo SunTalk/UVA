@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 257
+* Finish: 258
 
 ## Not Finish
 
@@ -114,6 +114,7 @@
 	* [x] uva1234 - RACING
 	* [x] uva1260 - Sales
 	* [x] uva1312 - Cricket Field
+	* [x] uva1494 - Qin Shi Huang's National Road System
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
 	* [x] uva1594 - Ducci Sequence
