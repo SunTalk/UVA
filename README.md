@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 258
+* Finish: 259
 
 ## Not Finish
 
@@ -188,6 +188,7 @@
 	* [x] uva10789 - Prime Frequency
 	* [x] uva10810 - Ultra-QuickSort
 	* [x] uva10812 - Beat the Spread!
+	* [x] uva10815 - Andy's First Dictionary
 	* [x] uva10856 - Recover Factorial
 	* [x] uva10871 - Primed Subsequence
 	* [x] uva10878 - Decode the tape
