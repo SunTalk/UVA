@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 259
+* Finish: 260
 
 ## Not Finish
 
@@ -117,6 +117,7 @@
 	* [x] uva1494 - Qin Shi Huang's National Road System
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
+	* [x] uva1585 - Score
 	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
