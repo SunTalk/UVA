@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 261
+* Finish: 262
 
 ## Not Finish
 
@@ -226,6 +226,7 @@
 	* [x] uva11398 - The Base-1 Number System
 	* [x] uva11401 - Triangle Counting
 	* [x] uva11407 - Squares
+	* [x] uva11417 - GCD
 	* [x] uva11461 - Square Numbers
 	* [x] uva11462 - Age Sort
 	* [x] uva11479 - Is this the easiest problem?
