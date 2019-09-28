@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 262
+* Finish: 263
 
 ## Not Finish
 
@@ -57,6 +57,7 @@
 	* [x] uva382 - Perfection
 	* [x] uva401 - Palindromes
 	* [x] uva402 - M\*A\*S\*H
+	* [x] uva406 - Prime Cuts
 	* [x] uva412 - Pi
 	* [x] uva424 - Integer Inquiry
 	* [x] uva437 - The Tower of Babylon
