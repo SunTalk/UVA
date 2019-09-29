@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 263
+* Finish: 264
 
 ## Not Finish
 
@@ -87,6 +87,7 @@
 	* [x] uva591 - Box of Bricks
 	* [x] uva612 - DNA Sorting
 	* [x] uva621 - Secret Research
+	* [x] uva623 - 500!
 	* [x] uva624 - CD
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
