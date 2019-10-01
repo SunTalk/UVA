@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 265
+* Finish: 266
 
 ## Not Finish
 
@@ -47,6 +47,7 @@
 	* [x] uva193 - Graph Coloring
 	* [x] uva221 - Urban Elevations
 	* [x] uva256 - Quirksome Squares
+	* [x] uva263 - Number Chains
 	* [x] uva272 - TeX Quotes
 	* [x] uva299 - Train Swapping
 	* [x] uva352 - The Seasonal War
