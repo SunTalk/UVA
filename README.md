@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 266
+* Finish: 267
 
 ## Not Finish
 
@@ -160,6 +160,7 @@
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
 	* [x] uva10276 - Hanoi Tower Troubles Again!
+	* [x] uva10285 - Longest Run on a Snowboard
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10305 - Ordering Tasks
 	* [x] uva10327 - Flip Sort
