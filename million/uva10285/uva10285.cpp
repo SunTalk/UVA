@@ -14,10 +14,10 @@ struct node{
 	bool operator<(const node &rhs)const{
 		if( num == rhs.num ){
 			if( R == rhs.R )
-				return C > rhs.C;
-			return R > rhs.R;
+				return C < rhs.C;
+			return R < rhs.R;
 		}
-		return num > rhs.num;
+		return num < rhs.num;
 	};
 };
 
@@ -53,6 +53,7 @@ int main(int argc, char const *argv[])
 
 		for(int i = 1 ; i <= row ; i++ ){
 			for(int j = 1 ; j <= column ; j++ ){
+				ans[i][j] = 1;
 				node tmp(table[i][j],i,j);
 				PQ.push(tmp);
 			}
@@ -62,13 +63,13 @@ int main(int argc, char const *argv[])
 		while( !PQ.empty() ){
 			node tmp = PQ.top();
 
-			if( table[tmp.R][tmp.C] != table[tmp.R-1][tmp.C] && table[tmp.R-1][tmp.C] != 1000 )
+			if( table[tmp.R][tmp.C] < table[tmp.R-1][tmp.C] )
 				ans[tmp.R][tmp.C] = max(ans[tmp.R][tmp.C],ans[tmp.R-1][tmp.C]+1);
-			if( table[tmp.R][tmp.C] != table[tmp.R][tmp.C-1] && table[tmp.R][tmp.C-1] != 1000 )
+			if( table[tmp.R][tmp.C] < table[tmp.R][tmp.C-1] )
 				ans[tmp.R][tmp.C] = max(ans[tmp.R][tmp.C],ans[tmp.R][tmp.C-1]+1);
-			if( table[tmp.R][tmp.C] != table[tmp.R+1][tmp.C] && table[tmp.R+1][tmp.C] != 1000 )
+			if( table[tmp.R][tmp.C] < table[tmp.R+1][tmp.C] )
 				ans[tmp.R][tmp.C] = max(ans[tmp.R][tmp.C],ans[tmp.R+1][tmp.C]+1);
-			if( table[tmp.R][tmp.C] != table[tmp.R][tmp.C+1] && table[tmp.R][tmp.C+1] != 1000 )
+			if( table[tmp.R][tmp.C] < table[tmp.R][tmp.C+1] )
 				ans[tmp.R][tmp.C] = max(ans[tmp.R][tmp.C],ans[tmp.R][tmp.C+1]+1);
 			ANS = max(ANS,ans[tmp.R][tmp.C]);
 
