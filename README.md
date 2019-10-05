@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 269
+* Finish: 270
 
 ## Not Finish
 
@@ -174,6 +174,7 @@
 	* [x] uva10405 - Longest Common Subsequence
 	* [x] uva10409 - Die Game
 	* [x] uva10420 - List of Conquests
+	* [x] uva10424 - Love Calculator
 	* [x] uva10462 - Is There A Second Way Left?
 	* [x] uva10465 - Homer Simpson
 	* [x] uva10469 - To Carry or not to Carry
