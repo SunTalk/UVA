@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 270
+* Finish: 271
 
 ## Not Finish
 
@@ -29,6 +29,7 @@
 	* [x] uva104 - Arbitrage
 	* [x] uva107 - The Cat in the Hat
 	* [x] uva108 - Maximum Sum
+	* [x] uva111 - History Grading
 	* [x] uva113 - Power of Cryptography
 	* [x] uva116 - Unidirectional TSP
 	* [x] uva118 - Mutant Flatworld Explorers
