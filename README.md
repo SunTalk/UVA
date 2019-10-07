@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 271
+* Finish: 272
 
 ## Not Finish
 
@@ -49,6 +49,7 @@
 	* [x] uva221 - Urban Elevations
 	* [x] uva256 - Quirksome Squares
 	* [x] uva263 - Number Chains
+	* [x] uva264 - Count on Cantor
 	* [x] uva272 - TeX Quotes
 	* [x] uva299 - Train Swapping
 	* [x] uva352 - The Seasonal War
