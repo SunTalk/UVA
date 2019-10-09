@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 272
+* Finish: 273
 
 ## Not Finish
 
@@ -259,6 +259,7 @@
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11764 - Jumping Mario
 	* [x] uva11799 - Horror Dash
+	* [x] uva11805 - Bafana Bafana
 	* [x] uva11854 - Egypt
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
