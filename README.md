@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 273
+* Finish: 274
 
 ## Not Finish
 
@@ -243,6 +243,7 @@
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
+	* [x] uva11536 - Smallest Sub-Array
 	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
 	* [x] uva11559 - Event Planning
