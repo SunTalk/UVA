@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 274
+* Finish: 275
 
 ## Not Finish
 
@@ -167,6 +167,7 @@
 	* [x] uva10285 - Longest Run on a Snowboard
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10305 - Ordering Tasks
+	* [x] uva10324 - Zeros and Ones
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
 	* [x] uva10346 - Peter's Smokes
