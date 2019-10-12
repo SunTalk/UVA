@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 275
+* Finish: 276
 
 ## Not Finish
 
@@ -216,6 +216,7 @@
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11000 - Bee
 	* [x] uva11044 - Searching for Nessy
+	* [x] uva11057 - Exact Sum
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
 	* [x] uva11150 - Cola
