@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 276
+* Finish: 277
 
 ## Not Finish
 
@@ -163,6 +163,7 @@
 	* [x] uva10209 - Is This Integration ?
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
+	* [x] uva10260 - Soundex
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10285 - Longest Run on a Snowboard
 	* [x] uva10300 - Ecological Premium
