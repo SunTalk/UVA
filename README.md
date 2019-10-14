@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 277
+* Finish: 278
 
 ## Not Finish
 
@@ -211,6 +211,7 @@
 	* [x] uva10922 - 2 the 9s
 	* [x] uva10924 - Prime Words
 	* [x] uva10929 - You can say 11
+	* [x] uva10945 - Mother bear
 	* [x] uva10954 - Add All
 	* [x] uva10963 - The Swallowing Ground
 	* [x] uva10970 - Big Chocolate
