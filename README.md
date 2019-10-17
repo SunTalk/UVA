@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 6
-* Finish: 278
+* Finish: 279
 
 ## Not Finish
 
@@ -132,6 +132,7 @@
 	* [x] uva1614 - Hell on the Markets
 	* [x] uva1617 - Laptop
 	* [x] uva1619 - Feel Good
+	* [x] uva1620 - Lazy Susan
 
 * part three
 	* [x] uva10003 - Cutting Sticks
