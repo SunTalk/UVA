@@ -2,12 +2,13 @@
 
 ## Total
 
-* Not Finish: 6
+* Not Finish: 7
 * Finish: 279
 
 ## Not Finish
 
 * part one
+	* [ ] uva128 - Software CRC
 
 * part two
 
