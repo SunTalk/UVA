@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 279
+* Finish: 280
 
 ## Not Finish
 
@@ -66,6 +66,7 @@
 	* [x] uva424 - Integer Inquiry
 	* [x] uva437 - The Tower of Babylon
 	* [x] uva438 - The Circumference of the Circle
+	* [x] uva441 - Lotto
 	* [x] uva443 - Humble Numbers
 	* [x] uva445 - Marvelous Mazes
 	* [x] uva455 - Periodic Strings
