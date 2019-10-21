@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 281
+* Finish: 282
 
 ## Not Finish
 
@@ -39,6 +39,7 @@
 	* [x] uva130 - Roman Roulette
 	* [x] uva136 - Ugly Numbers
 	* [x] uva138 - Street Numbers
+	* [x] uva145 - Gondwanaland Telecom
 	* [x] uva146 - ID Codes
 	* [x] uva147 - Dollars 
 	* [x] uva151 - Power Crisis
