@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 282
+* Finish: 283
 
 ## Not Finish
 
@@ -47,6 +47,7 @@
 	* [x] uva160 - Factors and Factorials
 	* [x] uva166 - Making Change
 	* [x] uva167 - The Sultan's Successors
+	* [x] uva170 - Clock Patience
 	* [x] uva191 - Intersection
 	* [x] uva193 - Graph Coloring
 	* [x] uva221 - Urban Elevations
