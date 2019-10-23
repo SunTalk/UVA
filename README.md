@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 283
+* Finish: 284
 
 ## Not Finish
 
@@ -51,6 +51,7 @@
 	* [x] uva191 - Intersection
 	* [x] uva193 - Graph Coloring
 	* [x] uva221 - Urban Elevations
+	* [x] uva253 - Cube painting
 	* [x] uva256 - Quirksome Squares
 	* [x] uva263 - Number Chains
 	* [x] uva264 - Count on Cantor
