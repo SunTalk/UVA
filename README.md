@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 284
+* Finish: 285
 
 ## Not Finish
 
@@ -56,6 +56,7 @@
 	* [x] uva263 - Number Chains
 	* [x] uva264 - Count on Cantor
 	* [x] uva272 - TeX Quotes
+	* [x] uva294 - Divisors
 	* [x] uva299 - Train Swapping
 	* [x] uva352 - The Seasonal War
 	* [x] uva353 - Pesky Palindromes
