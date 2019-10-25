@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 7
-* Finish: 285
+* Finish: 286
 
 ## Not Finish
 
@@ -202,6 +202,7 @@
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
 	* [x] uva10699 - Count the factors
+	* [x] uva10706 - Number Sequence
 	* [x] uva10721 - Bar Codes
 	* [x] uva10739 - String to Palindrome
 	* [x] uva10776 - Determine The Combination
