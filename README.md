@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 7
+* Not Finish: 8
 * Finish: 286
 
 ## Not Finish
@@ -11,6 +11,7 @@
 	* [ ] uva128 - Software CRC
 
 * part two
+	* [ ] uva1621 - Jumping Around
 
 * part three
 	* [ ] uva10819 - Trouble of 13-Dots
