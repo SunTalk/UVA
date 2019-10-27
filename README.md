@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 286
+* Finish: 287
 
 ## Not Finish
 
@@ -170,6 +170,7 @@
 	* [x] uva10189 - Minesweeper
 	* [x] uva10192 - Vacation
 	* [x] uva10209 - Is This Integration ?
+	* [x] uva10219 - Find the ways!
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10237 - Bishops
 	* [x] uva10260 - Soundex
