@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 288
+* Finish: 289
 
 ## Not Finish
 
@@ -306,6 +306,7 @@
 	* [x] uva12459 - Bees' ancestors
 	* [x] uva12461 - Airplane
 	* [x] uva12468 - Zapping
+	* [x] uva12545 - Bits Equalizer
 	* [x] uva12563 - Jin Ge Jin Qu hao
 	* [x] uva12577 - Hajj-e-Akbar
 	* [x] uva12602 - Nice Licence Plates
