@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 289
+* Finish: 290
 
 ## Not Finish
 
@@ -288,6 +288,7 @@
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
 	* [x] uva12019 - Doom's Day Algorithm
+	* [x] uva12086 - Potentiometers
 	* [x] uva12149 - Feynman
 	* [x] uva12195 - Jingle Composing
 	* [x] uva12208 - How Many Ones Needed?
