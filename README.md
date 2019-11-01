@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 291
+* Finish: 292
 
 ## Not Finish
 
@@ -285,6 +285,7 @@
 	* [x] uva11942 - Lumberjack Sequencing
 	* [x] uva11959 - Dice
 	* [x] uva11984 - A Change in Thermal Unit
+	* [x] uva11988 - Broken Keyboard (a.k.a. Beiju Text)
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
