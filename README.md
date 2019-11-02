@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 292
+* Finish: 293
 
 ## Not Finish
 
@@ -263,6 +263,7 @@
 	* [x] uva11536 - Smallest Sub-Array
 	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
+	* [x] uva11556 - Best Compression Ever
 	* [x] uva11559 - Event Planning
 	* [x] uva11577 - Letter Frequency
 	* [x] uva11582 - Colossal Fibonacci Numbers!
