@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 293
+* Finish: 294
 
 ## Not Finish
 
@@ -63,6 +63,7 @@
 	* [x] uva353 - Pesky Palindromes
 	* [x] uva357 - Let Me Count The Ways
 	* [x] uva369 - Combinations
+	* [x] uva371 - Ackermann Functions
 	* [x] uva374 - Big Mod
 	* [x] uva382 - Perfection
 	* [x] uva401 - Palindromes
