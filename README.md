@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 294
+* Finish: 295
 
 ## Not Finish
 
@@ -147,6 +147,7 @@
 	* [x] uva10003 - Cutting Sticks
 	* [x] uva10004 - Bicoloring
 	* [x] uva10008 - What's Cryptanalysis?
+	* [x] uva10013 - Super long sums
 	* [x] uva10015 - Joseph's Cousin
 	* [x] uva10017 - The Never Ending Towers of Hanoi
 	* [x] uva10018 - Reverse and Add
