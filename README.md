@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 8
+* Not Finish: 9
 * Finish: 295
 
 ## Not Finish
@@ -14,6 +14,7 @@
 	* [ ] uva1621 - Jumping Around
 
 * part three
+	* [ ] uva10200 - Prime Time
 	* [ ] uva10819 - Trouble of 13-Dots
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
