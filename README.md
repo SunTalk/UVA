@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 10
-* Finish: 295
+* Not Finish: 8
+* Finish: 297
 
 ## Not Finish
 
@@ -14,8 +14,6 @@
 	* [ ] uva1621 - Jumping Around
 
 * part three
-	* [ ] uva10200 - Prime Time
-	* [ ] uva10235 - Simply Emirp
 	* [ ] uva10819 - Trouble of 13-Dots
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
@@ -175,9 +173,11 @@
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10189 - Minesweeper
 	* [x] uva10192 - Vacation
+	* [x] uva10200 - Prime Time
 	* [x] uva10209 - Is This Integration ?
 	* [x] uva10219 - Find the ways!
 	* [x] uva10222 - Decode the Mad man
+	* [x] uva10235 - Simply Emirp
 	* [x] uva10237 - Bishops
 	* [x] uva10260 - Soundex
 	* [x] uva10276 - Hanoi Tower Troubles Again!
