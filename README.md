@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 9
+* Not Finish: 10
 * Finish: 295
 
 ## Not Finish
@@ -15,6 +15,7 @@
 
 * part three
 	* [ ] uva10200 - Prime Time
+	* [ ] uva10235 - Simply Emirp
 	* [ ] uva10819 - Trouble of 13-Dots
 	* [ ] uva11297 - Census
 	* [ ] uva11367 - Full Tank?
