@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 298
+* Finish: 299
 
 ## Not Finish
 
@@ -262,6 +262,7 @@
 	* [x] uva11461 - Square Numbers
 	* [x] uva11462 - Age Sort
 	* [x] uva11479 - Is this the easiest problem?
+	* [x] uva11488 - Hyper Prefix Sets
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
