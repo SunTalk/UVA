@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 299
+* Finish: 300
 
 ## Not Finish
 
@@ -266,6 +266,7 @@
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
+	* [x] uva11530 - SMS Typing
 	* [x] uva11536 - Smallest Sub-Array
 	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
