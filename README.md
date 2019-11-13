@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 300
+* Finish: 301
 
 ## Not Finish
 
@@ -84,6 +84,7 @@
 	* [x] uva483 - Word Scramble
 	* [x] uva488 - Triangle Wave
 	* [x] uva490 - Rotating Sentences
+	* [x] uva492 - Pig-Latin
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva495 - Fibonacci Freeze
 	* [x] uva499 - What's The Frequency, Kenneth?
