@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 299
+* Finish: 302
 
 ## Not Finish
 
@@ -84,6 +84,7 @@
 	* [x] uva483 - Word Scramble
 	* [x] uva488 - Triangle Wave
 	* [x] uva490 - Rotating Sentences
+	* [x] uva492 - Pig-Latin
 	* [x] uva494 - Kindergarten Counting Game
 	* [x] uva495 - Fibonacci Freeze
 	* [x] uva499 - What's The Frequency, Kenneth?
@@ -263,9 +264,11 @@
 	* [x] uva11461 - Square Numbers
 	* [x] uva11462 - Age Sort
 	* [x] uva11479 - Is this the easiest problem?
+	* [x] uva11488 - Hyper Prefix Sets
 	* [x] uva11491 - Erasing and Winning
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
+	* [x] uva11530 - SMS Typing
 	* [x] uva11536 - Smallest Sub-Array
 	* [x] uva11541 - Decoding
 	* [x] uva11547 - Automatic Answer
