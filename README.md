@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 301
+* Finish: 302
 
 ## Not Finish
 
@@ -235,6 +235,7 @@
 	* [x] uva10970 - Big Chocolate
 	* [x] uva10976 - Fractions Again?!
 	* [x] uva11000 - Bee
+	* [x] uva11005 - Cheapest Base
 	* [x] uva11044 - Searching for Nessy
 	* [x] uva11057 - Exact Sum
 	* [x] uva11059 - Maximum Product
