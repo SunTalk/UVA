@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 305
+* Finish: 306
 
 ## Not Finish
 
@@ -61,6 +61,7 @@
 	* [x] uva299 - Train Swapping
 	* [x] uva352 - The Seasonal War
 	* [x] uva353 - Pesky Palindromes
+	* [x] uva356 - Square Pegs And Round Holes
 	* [x] uva357 - Let Me Count The Ways
 	* [x] uva369 - Combinations
 	* [x] uva371 - Ackermann Functions
