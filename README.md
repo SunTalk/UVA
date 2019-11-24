@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 306
+* Finish: 307
 
 ## Not Finish
 
@@ -191,6 +191,7 @@
 	* [x] uva10324 - Zeros and Ones
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
+	* [x] uva10341 - Solve It
 	* [x] uva10342 - Always Late
 	* [x] uva10346 - Peter's Smokes
 	* [x] uva10370 - Above Average
