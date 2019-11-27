@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 308
+* Finish: 310
 
 ## Not Finish
 
@@ -234,6 +234,7 @@
 	* [x] uva10922 - 2 the 9s
 	* [x] uva10924 - Prime Words
 	* [x] uva10929 - You can say 11
+	* [x] uva10930 - A-Sequence
 	* [x] uva10931 - Parity
 	* [x] uva10945 - Mother bear
 	* [x] uva10954 - Add All
@@ -292,6 +293,7 @@
 	* [x] uva11743 - Credit Check
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11764 - Jumping Mario
+	* [x] uva11790 - Murcia's Skyline
 	* [x] uva11799 - Horror Dash
 	* [x] uva11805 - Bafana Bafana
 	* [x] uva11854 - Egypt
