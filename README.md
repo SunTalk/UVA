@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 310
+* Finish: 311
 
 ## Not Finish
 
@@ -263,6 +263,7 @@
 	* [x] uva11364 - Parking
 	* [x] uva11368 - Nested Dolls
 	* [x] uva11369 - Shopaholic
+	* [x] uva11371 - Number Theory for Newbies
 	* [x] uva11389 - The Bus Driver Problem
 	* [x] uva11398 - The Base-1 Number System
 	* [x] uva11401 - Triangle Counting
