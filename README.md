@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 311
+* Finish: 312
 
 ## Not Finish
 
@@ -75,6 +75,7 @@
 	* [x] uva437 - The Tower of Babylon
 	* [x] uva438 - The Circumference of the Circle
 	* [x] uva441 - Lotto
+	* [x] uva442 - Matrix Chain Multiplication
 	* [x] uva443 - Humble Numbers
 	* [x] uva445 - Marvelous Mazes
 	* [x] uva455 - Periodic Strings
