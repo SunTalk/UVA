@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 312
+* Finish: 313
 
 ## Not Finish
 
@@ -164,6 +164,7 @@
 	* [x] uva10050 - Hartals
 	* [x] uva10055 - Hashmat the brave warrior
 	* [x] uva10062 - Tell me the frequencies!
+	* [x] uva10066 - The Twin Towers
 	* [x] uva10071 - Back to High School Physics
 	* [x] uva10079 - Pizza Cutting
 	* [x] uva10082 - WERTYU
