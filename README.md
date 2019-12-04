@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 313
+* Finish: 314
 
 ## Not Finish
 
@@ -212,6 +212,7 @@
 	* [x] uva10530 - Guessing Game
 	* [x] uva10534 - Wavio Sequence
 	* [x] uva10550 - Combination Lock
+	* [x] uva10555 - Dead Fraction
 	* [x] uva10570 - Meeting with Aliens
 	* [x] uva10589 - Area
 	* [x] uva10673 - Play with Floor and Ceil
