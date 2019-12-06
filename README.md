@@ -101,6 +101,7 @@
 	* [x] uva573 - The Snail
 	* [x] uva575 - Skew Binary
 	* [x] uva579 - ClockHands
+	* [x] uva583 - Prime Factors
 	* [x] uva591 - Box of Bricks
 	* [x] uva612 - DNA Sorting
 	* [x] uva621 - Secret Research
