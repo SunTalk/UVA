@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 314
+* Finish: 315
 
 ## Not Finish
 
@@ -186,6 +186,7 @@
 	* [x] uva10235 - Simply Emirp
 	* [x] uva10237 - Bishops
 	* [x] uva10260 - Soundex
+	* [x] uva10268 - 498-bis
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10285 - Longest Run on a Snowboard
 	* [x] uva10300 - Ecological Premium
