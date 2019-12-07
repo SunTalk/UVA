@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 316
+* Finish: 317
 
 ## Not Finish
 
@@ -177,6 +177,7 @@
 	* [x] uva10137 - The Trip
 	* [x] uva10141 - Request for Proposal
 	* [x] uva10152 - ShellSort
+	* [x] uva10170 - The Hotel with Infinite Rooms
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10189 - Minesweeper
 	* [x] uva10192 - Vacation
