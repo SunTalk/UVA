@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 319
+* Finish: 320
 
 ## Not Finish
 
@@ -117,6 +117,7 @@
 	* [x] uva846 - Steps
 	* [x] uva855 - Lunch in Grid City
 	* [x] uva884 - Factorial Factors
+	* [x] uva900 - Brick Wall Patterns
 	* [x] uva907 - Winterim Backpacking Trip
 	* [x] uva908 - Re-connecting Computer Sites
 	* [x] uva913 - Joana and the Odd Numbers
