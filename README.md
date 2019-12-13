@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 320
+* Finish: 321
 
 ## Not Finish
 
@@ -221,6 +221,7 @@
 	* [x] uva10555 - Dead Fraction
 	* [x] uva10570 - Meeting with Aliens
 	* [x] uva10589 - Area
+	* [x] uva10591 - Happy Number
 	* [x] uva10673 - Play with Floor and Ceil
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
