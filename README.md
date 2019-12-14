@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 321
+* Finish: 322
 
 ## Not Finish
 
@@ -328,6 +328,7 @@
 	* [x] uva12279 - Emoogle Balance
 	* [x] uva12289 - One-Two-Three
 	* [x] uva12299 - RMQ with Shifts
+	* [x] uva12342 - Tax Calculator
 	* [x] uva12347 - Binary Search Tree
 	* [x] uva12372 - Packing for Holiday
 	* [x] uva12403 - Save Setu
