@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 322
+* Finish: 323
 
 ## Not Finish
 
@@ -257,6 +257,7 @@
 	* [x] uva11057 - Exact Sum
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
+	* [x] uva11121 - Base -2
 	* [x] uva11150 - Cola
 	* [x] uva11172 - Relational Operator
 	* [x] uva11185 - Ternary
