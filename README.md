@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 324
+* Finish: 325
 
 ## Not Finish
 
@@ -214,6 +214,7 @@
 	* [x] uva10469 - To Carry or not to Carry
 	* [x] uva10473 - Simple Base Conversion
 	* [x] uva10474 - Where is the Marble?
+	* [x] uva10487 - Closest Sums
 	* [x] uva10499 - The Land of Justice
 	* [x] uva10530 - Guessing Game
 	* [x] uva10534 - Wavio Sequence
