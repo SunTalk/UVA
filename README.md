@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 325
+* Finish: 326
 
 ## Not Finish
 
@@ -271,6 +271,7 @@
 	* [x] uva11258 - String Partition
 	* [x] uva11332 - Summing Digits
 	* [x] uva11340 - Newspaper
+	* [x] uva11349 - Symmetric Matrix
 	* [x] uva11352 - Crazy King
 	* [x] uva11364 - Parking
 	* [x] uva11368 - Nested Dolls
