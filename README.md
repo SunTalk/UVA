@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 326
+* Finish: 327
 
 ## Not Finish
 
@@ -111,6 +111,7 @@
 	* [x] uva624 - CD
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
+	* [x] uva679 - Dropping Balls
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
 	* [x] uva825 - Walking on the Safe Side
