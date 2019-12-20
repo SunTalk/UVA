@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 8
+* Not Finish: 9
 * Finish: 327
 
 ## Not Finish
@@ -19,6 +19,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
+	* [ ] uva11677 - Alarm Clock
 	* [ ] uva13194 - DPA Numbers II
 
 ## Finish
