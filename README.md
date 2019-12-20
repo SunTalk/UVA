@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 9
-* Finish: 327
+* Not Finish: 8
+* Finish: 328
 
 ## Not Finish
 
@@ -19,7 +19,6 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
-	* [ ] uva11677 - Alarm Clock
 	* [ ] uva13194 - DPA Numbers II
 
 ## Finish
@@ -302,6 +301,7 @@
 	* [x] uva11614 - Etruscan Warriors Never Play Chess
 	* [x] uva11636 - Hello World!
 	* [x] uva11661 - Burger Time
+	* [x] uva11677 - Alarm Clock
 	* [x] uva11678 - Cards' Exchange
 	* [x] uva11687 - Digits
 	* [x] uva11689 - Soda Surpler
