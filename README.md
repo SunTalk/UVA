@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 328
+* Finish: 329
 
 ## Not Finish
 
@@ -351,6 +351,7 @@
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
 	* [x] uva12716 - GCD XOR
+	* [x] uva12820 - Cool Word
 	* [x] uva12908 - The book thief
 	* [x] uva13178 - Is it multiple of 3?
 	* [x] uva13185 - DPA Numbers I
