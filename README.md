@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 331
+* Finish: 332
 
 ## Not Finish
 
@@ -352,6 +352,7 @@
 	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
+	* [x] uva12704 - Little Masters
 	* [x] uva12716 - GCD XOR
 	* [x] uva12820 - Cool Word
 	* [x] uva12908 - The book thief
