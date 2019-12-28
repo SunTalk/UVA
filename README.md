@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 332
+* Finish: 333
 
 ## Not Finish
 
@@ -137,6 +137,7 @@
 	* [x] uva1225 - Digit Counting
 	* [x] uva1234 - RACING
 	* [x] uva1260 - Sales
+	* [x] uva1292 - Strategic game
 	* [x] uva1312 - Cricket Field
 	* [x] uva1442 - Cav
 	* [x] uva1494 - Qin Shi Huang's National Road System
