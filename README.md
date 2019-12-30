@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 333
+* Finish: 334
 
 ## Not Finish
 
@@ -275,6 +275,7 @@
 	* [x] uva11340 - Newspaper
 	* [x] uva11349 - Symmetric Matrix
 	* [x] uva11352 - Crazy King
+	* [x] uva11362 - Phone List
 	* [x] uva11364 - Parking
 	* [x] uva11368 - Nested Dolls
 	* [x] uva11369 - Shopaholic
