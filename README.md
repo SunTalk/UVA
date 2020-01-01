@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 335
+* Finish: 336
 
 ## Not Finish
 
@@ -328,6 +328,7 @@
 	* [x] uva11995 - I Can Guess the Data Structure!
 	* [x] uva11997 - K Smallest Sums
 	* [x] uva12004 - Bubble Sort
+	* [x] uva12015 - Google is Feeling Lucky
 	* [x] uva12019 - Doom's Day Algorithm
 	* [x] uva12086 - Potentiometers
 	* [x] uva12149 - Feynman
