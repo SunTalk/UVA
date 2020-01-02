@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 336
+* Finish: 349
 
 ## Not Finish
 
@@ -35,6 +35,7 @@
 	* [x] uva113 - Power of Cryptography
 	* [x] uva116 - Unidirectional TSP
 	* [x] uva118 - Mutant Flatworld Explorers
+	* [x] uva120 - Stacks of Flapjacks
 	* [x] uva122 - Trees on the level
 	* [x] uva127 - "Accordian" Patience
 	* [x] uva130 - Roman Roulette
@@ -61,6 +62,9 @@
 	* [x] uva291 - The House Of Santa Claus
 	* [x] uva294 - Divisors
 	* [x] uva299 - Train Swapping
+	* [x] uva305 - Joseph
+	* [x] uva324 - Factorial Frequencies
+	* [x] uva343 - What Base Is This?
 	* [x] uva352 - The Seasonal War
 	* [x] uva353 - Pesky Palindromes
 	* [x] uva356 - Square Pegs And Round Holes
@@ -69,6 +73,8 @@
 	* [x] uva371 - Ackermann Functions
 	* [x] uva374 - Big Mod
 	* [x] uva382 - Perfection
+	* [x] uva386 - Perfect Cubes
+	* [x] uva392 - Polynomial Showdown
 	* [x] uva401 - Palindromes
 	* [x] uva402 - M\*A\*S\*H
 	* [x] uva406 - Prime Cuts
@@ -105,10 +111,12 @@
 	* [x] uva579 - ClockHands
 	* [x] uva583 - Prime Factors
 	* [x] uva591 - Box of Bricks
+	* [x] uva608 - Counterfeit Dollar
 	* [x] uva612 - DNA Sorting
 	* [x] uva621 - Secret Research
 	* [x] uva623 - 500!
 	* [x] uva624 - CD
+	* [x] uva640 - Self Numbers
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
 	* [x] uva679 - Dropping Balls
@@ -126,10 +134,13 @@
 	* [x] uva993 - Product of digits
 
 * part two
+	* [x] uva1121 - Subsequence
 	* [x] uva1124 - Celebrity Jeopardy
 	* [x] uva1149 - Bin Packing
 	* [x] uva1152 - 4 Values whose Sum is 0
 	* [x] uva1175 - Ladies' Choice
+	* [x] uva1180 - Perfect Numbers
+	* [x] uva1185 - Big Number
 	* [x] uva1200 - A DP Problem
 	* [x] uva1203 - Argus
 	* [x] uva1210 - Sum of Consecutive Prime Numbers
@@ -139,11 +150,13 @@
 	* [x] uva1260 - Sales
 	* [x] uva1292 - Strategic game
 	* [x] uva1312 - Cricket Field
+	* [x] uva1394 - And Then There Was One
 	* [x] uva1442 - Cav
 	* [x] uva1494 - Qin Shi Huang's National Road System
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
 	* [x] uva1585 - Score
+	* [x] uva1587 - Box
 	* [x] uva1594 - Ducci Sequence
 	* [x] uva1605 - Building for UN
 	* [x] uva1610 - Party Games
