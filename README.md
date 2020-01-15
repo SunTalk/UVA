@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 349
+* Finish: 350
 
 ## Not Finish
 
@@ -165,6 +165,7 @@
 	* [x] uva1617 - Laptop
 	* [x] uva1619 - Feel Good
 	* [x] uva1620 - Lazy Susan
+	* [x] uva1727 - Counting Weekend Days
 
 * part three
 	* [x] uva10003 - Cutting Sticks
