@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 350
+* Finish: 351
 
 ## Not Finish
 
@@ -166,6 +166,7 @@
 	* [x] uva1619 - Feel Good
 	* [x] uva1620 - Lazy Susan
 	* [x] uva1727 - Counting Weekend Days
+	* [x] uva1730 - Sum of MSLCM
 
 * part three
 	* [x] uva10003 - Cutting Sticks
