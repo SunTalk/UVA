@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 351
+* Finish: 352
 
 ## Not Finish
 
@@ -375,6 +375,7 @@
 	* [x] uva12716 - GCD XOR
 	* [x] uva12820 - Cool Word
 	* [x] uva12908 - The book thief
+	* [x] uva13012 - Identifying tea
 	* [x] uva13178 - Is it multiple of 3?
 	* [x] uva13185 - DPA Numbers I
 	* [x] uva13187 - Felipe and the Sequence
