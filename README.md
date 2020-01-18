@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 352
+* Finish: 353
 
 ## Not Finish
 
@@ -211,6 +211,7 @@
 	* [x] uva10268 - 498-bis
 	* [x] uva10276 - Hanoi Tower Troubles Again!
 	* [x] uva10285 - Longest Run on a Snowboard
+	* [x] uva10290 - {Sum+=i++} to Reach N
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10305 - Ordering Tasks
 	* [x] uva10324 - Zeros and Ones
