@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 353
+* Finish: 354
 
 ## Not Finish
 
@@ -251,6 +251,7 @@
 	* [x] uva10776 - Determine The Combination
 	* [x] uva10783 - Odd Sum
 	* [x] uva10789 - Prime Frequency
+	* [x] uva10790 - How Many Points of Intersection?
 	* [x] uva10810 - Ultra-QuickSort
 	* [x] uva10812 - Beat the Spread!
 	* [x] uva10815 - Andy's First Dictionary
