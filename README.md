@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 8
-* Finish: 354
+* Not Finish: 9
+* Finish: 355
 
 ## Not Finish
 
@@ -105,6 +105,7 @@
 	* [x] uva543 - Goldbach's Conjecture
 	* [x] uva557 - Burger
 	* [x] uva562 - Dividing coins
+	* [x] uva568 - Just the Facts
 	* [x] uva572 - Oil Deposits
 	* [x] uva573 - The Snail
 	* [x] uva575 - Skew Binary
