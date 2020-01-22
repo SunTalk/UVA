@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 9
-* Finish: 355
+* Not Finish: 8
+* Finish: 356
 
 ## Not Finish
 
@@ -172,6 +172,7 @@
 * part three
 	* [x] uva10003 - Cutting Sticks
 	* [x] uva10004 - Bicoloring
+	* [x] uva10006 - Carmichael Numbers
 	* [x] uva10008 - What's Cryptanalysis?
 	* [x] uva10013 - Super long sums
 	* [x] uva10015 - Joseph's Cousin
