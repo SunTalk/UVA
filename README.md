@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 356
+* Finish: 357
 
 ## Not Finish
 
@@ -336,6 +336,7 @@
 	* [x] uva11790 - Murcia's Skyline
 	* [x] uva11799 - Horror Dash
 	* [x] uva11805 - Bafana Bafana
+	* [x] uva11849 - CD
 	* [x] uva11854 - Egypt
 	* [x] uva11875 - Brick Game
 	* [x] uva11879 - Multiple of 17
