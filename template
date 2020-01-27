@@ -7,6 +7,8 @@ using namespace std;
 #define INF 0x3f3f3f3f
 #define DEVIATION 0.00000005
 
+typedef long long LL;
+
 int main(int argc, char const *argv[])
 {
 

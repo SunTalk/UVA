@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 8
+* Not Finish: 9
 * Finish: 359
 
 ## Not Finish
@@ -19,6 +19,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
+	* [x] uva12898 - And Or
 	* [ ] uva13194 - DPA Numbers II
 
 ## Finish
