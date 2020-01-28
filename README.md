@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 9
-* Finish: 359
+* Not Finish: 8
+* Finish: 360
 
 ## Not Finish
 
@@ -19,7 +19,6 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
-	* [x] uva12898 - And Or
 	* [ ] uva13194 - DPA Numbers II
 
 ## Finish
@@ -382,6 +381,7 @@
 	* [x] uva12704 - Little Masters
 	* [x] uva12716 - GCD XOR
 	* [x] uva12820 - Cool Word
+	* [x] uva12898 - And Or
 	* [x] uva12908 - The book thief
 	* [x] uva13012 - Identifying tea
 	* [x] uva13178 - Is it multiple of 3?
