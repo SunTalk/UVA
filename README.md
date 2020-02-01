@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 360
+* Finish: 361
 
 ## Not Finish
 
@@ -381,6 +381,7 @@
 	* [x] uva12704 - Little Masters
 	* [x] uva12716 - GCD XOR
 	* [x] uva12820 - Cool Word
+	* [x] uva12895 - Armstrong Number
 	* [x] uva12898 - And Or
 	* [x] uva12908 - The book thief
 	* [x] uva13012 - Identifying tea
