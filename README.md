@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 362
+* Finish: 363
 
 ## Not Finish
 
@@ -269,6 +269,7 @@
 	* [x] uva10929 - You can say 11
 	* [x] uva10930 - A-Sequence
 	* [x] uva10931 - Parity
+	* [x] uva10935 - Throwing cards away I
 	* [x] uva10945 - Mother bear
 	* [x] uva10954 - Add All
 	* [x] uva10963 - The Swallowing Ground
