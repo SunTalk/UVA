@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 363
+* Finish: 364
 
 ## Not Finish
 
@@ -200,6 +200,7 @@
 	* [x] uva10137 - The Trip
 	* [x] uva10141 - Request for Proposal
 	* [x] uva10152 - ShellSort
+	* [x] uva10168 - Summation of Four Primes
 	* [x] uva10170 - The Hotel with Infinite Rooms
 	* [x] uva10178 - Count the Faces.
 	* [x] uva10189 - Minesweeper
