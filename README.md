@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 365
+* Finish: 366
 
 ## Not Finish
 
@@ -227,6 +227,7 @@
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
+	* [x] uva10394 - Twin Primes
 	* [x] uva10405 - Longest Common Subsequence
 	* [x] uva10409 - Die Game
 	* [x] uva10420 - List of Conquests
