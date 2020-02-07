@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 366
+* Finish: 367
 
 ## Not Finish
 
@@ -124,6 +124,7 @@
 	* [x] uva679 - Dropping Balls
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
+	* [x] uva725 - Division
 	* [x] uva825 - Walking on the Safe Side
 	* [x] uva846 - Steps
 	* [x] uva855 - Lunch in Grid City
