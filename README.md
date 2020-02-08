@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 367
+* Finish: 368
 
 ## Not Finish
 
@@ -125,6 +125,7 @@
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
 	* [x] uva725 - Division
+	* [x] uva750 - 8 Queens Chess Problem
 	* [x] uva825 - Walking on the Safe Side
 	* [x] uva846 - Steps
 	* [x] uva855 - Lunch in Grid City
