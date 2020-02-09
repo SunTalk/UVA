@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 368
+* Finish: 369
 
 ## Not Finish
 
@@ -124,6 +124,7 @@
 	* [x] uva679 - Dropping Balls
 	* [x] uva686 - Goldbach's Conjecture (II)
 	* [x] uva694 - The Collatz Sequence
+	* [x] uva706 - LC-Display
 	* [x] uva725 - Division
 	* [x] uva750 - 8 Queens Chess Problem
 	* [x] uva825 - Walking on the Safe Side
