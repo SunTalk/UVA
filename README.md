@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 369
+* Finish: 370
 
 ## Not Finish
 
@@ -226,6 +226,7 @@
 	* [x] uva10340 - All in All
 	* [x] uva10341 - Solve It
 	* [x] uva10342 - Always Late
+	* [x] uva10344 - 23 out of 5
 	* [x] uva10346 - Peter's Smokes
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
