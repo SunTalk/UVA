@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 370
+* Finish: 371
 
 ## Not Finish
 
@@ -221,6 +221,7 @@
 	* [x] uva10290 - {Sum+=i++} to Reach N
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10305 - Ordering Tasks
+	* [x] uva10306 - e-Coins
 	* [x] uva10324 - Zeros and Ones
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
