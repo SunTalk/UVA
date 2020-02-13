@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 372
+* Finish: 373
 
 ## Not Finish
 
@@ -230,6 +230,7 @@
 	* [x] uva10344 - 23 out of 5
 	* [x] uva10346 - Peter's Smokes
 	* [x] uva10363 - Tic Tac Toe
+	* [x] uva10365 - Blocks
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
