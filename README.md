@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 373
+* Finish: 374
 
 ## Not Finish
 
@@ -222,6 +222,7 @@
 	* [x] uva10300 - Ecological Premium
 	* [x] uva10305 - Ordering Tasks
 	* [x] uva10306 - e-Coins
+	* [x] uva10311 - Goldbach and Euler
 	* [x] uva10324 - Zeros and Ones
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
