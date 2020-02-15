@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 374
+* Finish: 375
 
 ## Not Finish
 
@@ -223,6 +223,7 @@
 	* [x] uva10305 - Ordering Tasks
 	* [x] uva10306 - e-Coins
 	* [x] uva10311 - Goldbach and Euler
+	* [x] uva10313 - Pay the Price
 	* [x] uva10324 - Zeros and Ones
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
