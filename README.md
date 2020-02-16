@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 375
+* Finish: 376
 
 ## Not Finish
 
@@ -225,6 +225,7 @@
 	* [x] uva10311 - Goldbach and Euler
 	* [x] uva10313 - Pay the Price
 	* [x] uva10324 - Zeros and Ones
+	* [x] uva10325 - The Lottery
 	* [x] uva10327 - Flip Sort
 	* [x] uva10340 - All in All
 	* [x] uva10341 - Solve It
