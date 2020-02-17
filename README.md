@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 377
+* Finish: 378
 
 ## Not Finish
 
@@ -235,6 +235,7 @@
 	* [x] uva10363 - Tic Tac Toe
 	* [x] uva10364 - Square
 	* [x] uva10365 - Blocks
+	* [x] uva10368 - Euclid's Game
 	* [x] uva10370 - Above Average
 	* [x] uva10382 - Watering Grass
 	* [x] uva10391 - Compound Words
