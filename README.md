@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 378
+* Finish: 379
 
 ## Not Finish
 
@@ -259,6 +259,7 @@
 	* [x] uva10589 - Area
 	* [x] uva10591 - Happy Number
 	* [x] uva10608 - Friends
+	* [x] uva10656 - Maximum Sum (II)
 	* [x] uva10673 - Play with Floor and Ceil
 	* [x] uva10684 - The Jackpot
 	* [x] uva10696 - f91
