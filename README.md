@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 379
+* Finish: 380
 
 ## Not Finish
 
@@ -178,6 +178,7 @@
 	* [x] uva10004 - Bicoloring
 	* [x] uva10006 - Carmichael Numbers
 	* [x] uva10008 - What's Cryptanalysis?
+	* [x] uva10010 - Where's Waldorf?
 	* [x] uva10013 - Super long sums
 	* [x] uva10015 - Joseph's Cousin
 	* [x] uva10017 - The Never Ending Towers of Hanoi
