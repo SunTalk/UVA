@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 380
+* Finish: 381
 
 ## Not Finish
 
@@ -177,6 +177,7 @@
 	* [x] uva10003 - Cutting Sticks
 	* [x] uva10004 - Bicoloring
 	* [x] uva10006 - Carmichael Numbers
+	* [x] uva10007 - Count the Trees
 	* [x] uva10008 - What's Cryptanalysis?
 	* [x] uva10010 - Where's Waldorf?
 	* [x] uva10013 - Super long sums
