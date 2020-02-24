@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 383
+* Finish: 384
 
 ## Not Finish
 
@@ -187,6 +187,7 @@
 	* [x] uva10018 - Reverse and Add
 	* [x] uva10019 - Funny Encryption Method
 	* [x] uva10025 - The ? 1 ? 2 ? ... ? n = k problem
+	* [x] uva10026 - Shoemaker's Problem
 	* [x] uva10034 - Freckles
 	* [x] uva10035 - Primary Arithmetic
 	* [x] uva10037 - Bridge
