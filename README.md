@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 384
+* Finish: 385
 
 ## Not Finish
 
@@ -412,5 +412,6 @@
 	* [x] uva13178 - Is it multiple of 3?
 	* [x] uva13185 - DPA Numbers I
 	* [x] uva13187 - Felipe and the Sequence
+	* [x] uva13212 - How many inversions?
 	* [x] uva13216 - Problem with a ridiculously long name but with a ridiculously short description
 
