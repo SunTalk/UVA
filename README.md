@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 388
+* Finish: 389
 
 ## Not Finish
 
@@ -129,6 +129,7 @@
 	* [x] uva694 - The Collatz Sequence
 	* [x] uva706 - LC-Display
 	* [x] uva725 - Division
+	* [x] uva739 - Soundex Indexing
 	* [x] uva750 - 8 Queens Chess Problem
 	* [x] uva825 - Walking on the Safe Side
 	* [x] uva846 - Steps
