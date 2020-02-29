@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 387
+* Finish: 388
 
 ## Not Finish
 
@@ -121,6 +121,7 @@
 	* [x] uva623 - 500!
 	* [x] uva624 - CD
 	* [x] uva640 - Self Numbers
+	* [x] uva661 - Blowing Fuses
 	* [x] uva673 - Parentheses Balance
 	* [x] uva674 - Coin Change
 	* [x] uva679 - Dropping Balls
