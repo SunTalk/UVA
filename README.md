@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 389
+* Finish: 390
 
 ## Not Finish
 
@@ -140,6 +140,7 @@
 	* [x] uva908 - Re-connecting Computer Sites
 	* [x] uva913 - Joana and the Odd Numbers
 	* [x] uva929 - Number Maze
+	* [x] uva948 - Fibonaccimal Base
 	* [x] uva993 - Product of digits
 
 * part two
