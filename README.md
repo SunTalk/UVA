@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 390
+* Finish: 391
 
 ## Not Finish
 
@@ -358,6 +358,7 @@
 	* [x] uva11687 - Digits
 	* [x] uva11689 - Soda Surpler
 	* [x] uva11727 - Cost Cutting
+	* [x] uva11734 - Big Number of Teams will Solve This
 	* [x] uva11743 - Credit Check
 	* [x] uva11747 - Heavy Cycle Edges
 	* [x] uva11764 - Jumping Mario
