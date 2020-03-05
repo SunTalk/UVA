@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 392
+* Finish: 393
 
 ## Not Finish
 
@@ -30,6 +30,7 @@
 	* [x] uva102 - Ecological Bin Packing
 	* [x] uva103 - Stacking Boxes
 	* [x] uva104 - Arbitrage
+	* [x] uva106 - Fermat vs. Pythagoras
 	* [x] uva107 - The Cat in the Hat
 	* [x] uva108 - Maximum Sum
 	* [x] uva111 - History Grading
