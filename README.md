@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 394
+* Finish: 395
 
 ## Not Finish
 
@@ -82,6 +82,7 @@
 	* [x] uva402 - M\*A\*S\*H
 	* [x] uva406 - Prime Cuts
 	* [x] uva412 - Pi
+	* [x] uva417 - Word Index
 	* [x] uva424 - Integer Inquiry
 	* [x] uva437 - The Tower of Babylon
 	* [x] uva438 - The Circumference of the Circle
