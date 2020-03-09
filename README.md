@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 396
+* Finish: 397
 
 ## Not Finish
 
@@ -216,6 +216,7 @@
 	* [x] uva10137 - The Trip
 	* [x] uva10141 - Request for Proposal
 	* [x] uva10152 - ShellSort
+	* [x] uva10161 - Ant on a Chessboard
 	* [x] uva10168 - Summation of Four Primes
 	* [x] uva10170 - The Hotel with Infinite Rooms
 	* [x] uva10178 - Count the Faces.
