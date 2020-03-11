@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 396
+* Finish: 397
 
 ## Not Finish
 
@@ -408,6 +408,7 @@
 	* [x] uva12468 - Zapping
 	* [x] uva12545 - Bits Equalizer
 	* [x] uva12563 - Jin Ge Jin Qu hao
+	* [x] uva12575 - Sin Cos Problem
 	* [x] uva12577 - Hajj-e-Akbar
 	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
