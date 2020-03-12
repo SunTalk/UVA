@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 398
+* Finish: 399
 
 ## Not Finish
 
@@ -228,6 +228,7 @@
 	* [x] uva10222 - Decode the Mad man
 	* [x] uva10235 - Simply Emirp
 	* [x] uva10237 - Bishops
+	* [x] uva10252 - Common Permutation
 	* [x] uva10260 - Soundex
 	* [x] uva10268 - 498-bis
 	* [x] uva10276 - Hanoi Tower Troubles Again!
