@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 399
+* Finish: 400
 
 ## Not Finish
 
@@ -412,6 +412,7 @@
 	* [x] uva12563 - Jin Ge Jin Qu hao
 	* [x] uva12575 - Sin Cos Problem
 	* [x] uva12577 - Hajj-e-Akbar
+	* [x] uva12578 - 10:6:2
 	* [x] uva12602 - Nice Licence Plates
 	* [x] uva12608 - Garbage Collection
 	* [x] uva12650 - Dangerous Dive
