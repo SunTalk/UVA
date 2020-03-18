@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 401
+* Finish: 402
 
 ## Not Finish
 
@@ -323,6 +323,7 @@
 	* [x] uva11204 - Musical instruments
 	* [x] uva11219 - How old are you?
 	* [x] uva11220 - Decoding the message.
+	* [x] uva11222 - Only I did it!
 	* [x] uva11235 - Frequent Values
 	* [x] uva11241 - Humidex
 	* [x] uva11258 - String Partition
