@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 402
+* Finish: 403
 
 ## Not Finish
 
@@ -351,6 +351,7 @@
 	* [x] uva11494 - Queen
 	* [x] uva11498 - Division of Nlogonia
 	* [x] uva11512 - GATTACA
+	* [x] uva11526 - H(n)
 	* [x] uva11530 - SMS Typing
 	* [x] uva11536 - Smallest Sub-Array
 	* [x] uva11541 - Decoding
