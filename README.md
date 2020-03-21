@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 403
+* Finish: 404
 
 ## Not Finish
 
@@ -327,6 +327,7 @@
 	* [x] uva11235 - Frequent Values
 	* [x] uva11241 - Humidex
 	* [x] uva11258 - String Partition
+	* [x] uva11286 - Conformity
 	* [x] uva11321 - Sort! Sort!! And Sort!!!
 	* [x] uva11332 - Summing Digits
 	* [x] uva11340 - Newspaper
