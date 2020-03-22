@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 404
+* Finish: 405
 
 ## Not Finish
 
@@ -227,6 +227,7 @@
 	* [x] uva10209 - Is This Integration ?
 	* [x] uva10219 - Find the ways!
 	* [x] uva10222 - Decode the Mad man
+	* [x] uva10226 - Hardwood species
 	* [x] uva10235 - Simply Emirp
 	* [x] uva10237 - Bishops
 	* [x] uva10252 - Common Permutation
