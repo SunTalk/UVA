@@ -15,8 +15,8 @@ int main(int argc, char const *argv[])
 	freopen("uva" PROBLEM ".out", "w", stdout);
 	#endif
 
+	set <string> table;
 	char word;
-	map <string,int> table;
 	string str = "";
 
 	while( ~scanf("%c",&word) ){
@@ -25,13 +25,18 @@ int main(int argc, char const *argv[])
 		}
 		else if( str != "" ){
 			transform(str.begin(),str.end(),str.begin(),::tolower);
-			table[str] = 1;
+			table.insert(str);
 			str = "";
 		}
 	}
 
+	if( str != "" ){
+		transform(str.begin(),str.end(),str.begin(),::tolower);
+		table.insert(str);
+	}
+
 	for(auto i : table )
-		cout << i.first << endl;
+		cout << i << endl;
 
 	return 0;
 }
