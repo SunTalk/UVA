@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 10
-* Finish: 403
+* Not Finish: 9
+* Finish: 406
 
 ## Not Finish
 
@@ -12,7 +12,6 @@
 
 * part two
 	* [ ] uva1621 - Jumping Around
-	* [ ] uva1629 - Cake slicing
 
 * part three
 	* [ ] uva10819 - Trouble of 13-Dots
@@ -180,6 +179,7 @@
 	* [x] uva1617 - Laptop
 	* [x] uva1619 - Feel Good
 	* [x] uva1620 - Lazy Susan
+	* [x] uva1629 - Cake slicing
 	* [x] uva1727 - Counting Weekend Days
 	* [x] uva1730 - Sum of MSLCM
 
@@ -228,6 +228,7 @@
 	* [x] uva10209 - Is This Integration ?
 	* [x] uva10219 - Find the ways!
 	* [x] uva10222 - Decode the Mad man
+	* [x] uva10226 - Hardwood species
 	* [x] uva10235 - Simply Emirp
 	* [x] uva10237 - Bishops
 	* [x] uva10252 - Common Permutation
@@ -328,6 +329,7 @@
 	* [x] uva11235 - Frequent Values
 	* [x] uva11241 - Humidex
 	* [x] uva11258 - String Partition
+	* [x] uva11286 - Conformity
 	* [x] uva11321 - Sort! Sort!! And Sort!!!
 	* [x] uva11332 - Summing Digits
 	* [x] uva11340 - Newspaper
