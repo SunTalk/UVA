@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 9
+* Not Finish: 10
 * Finish: 403
 
 ## Not Finish
@@ -12,6 +12,7 @@
 
 * part two
 	* [ ] uva1621 - Jumping Around
+	* [ ] uva1629 - Cake slicing
 
 * part three
 	* [ ] uva10819 - Trouble of 13-Dots
