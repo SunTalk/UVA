@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 10
-* Finish: 406
+* Not Finish: 9
+* Finish: 407
 
 ## Not Finish
 
@@ -19,7 +19,6 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
-	* [ ] uva12293 - Box Game
 	* [ ] uva13194 - DPA Numbers II
 	* [ ] uva13275 - Leap Birthdays
 
@@ -403,6 +402,7 @@
 	* [x] uva12250 - Language Detection
 	* [x] uva12279 - Emoogle Balance
 	* [x] uva12289 - One-Two-Three
+	* [x] uva12293 - Box Game
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12342 - Tax Calculator
 	* [x] uva12347 - Binary Search Tree
