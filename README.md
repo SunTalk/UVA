@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 9
+* Not Finish: 10
 * Finish: 406
 
 ## Not Finish
@@ -19,6 +19,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
+	* [ ] uva12293 - Box Game
 	* [ ] uva13194 - DPA Numbers II
 	* [ ] uva13275 - Leap Birthdays
 
