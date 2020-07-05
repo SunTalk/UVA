@@ -403,6 +403,7 @@
 	* [x] uva12250 - Language Detection
 	* [x] uva12279 - Emoogle Balance
 	* [x] uva12289 - One-Two-Three
+	* [x] uva12293 - Box Game
 	* [x] uva12299 - RMQ with Shifts
 	* [x] uva12342 - Tax Calculator
 	* [x] uva12347 - Binary Search Tree
