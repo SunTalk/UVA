@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 9
-* Finish: 406
+* Finish: 407
 
 ## Not Finish
 
@@ -270,6 +270,7 @@
 	* [x] uva10474 - Where is the Marble?
 	* [x] uva10487 - Closest Sums
 	* [x] uva10499 - The Land of Justice
+	* [x] uva10507 - Waking up brain
 	* [x] uva10530 - Guessing Game
 	* [x] uva10534 - Wavio Sequence
 	* [x] uva10550 - Combination Lock
