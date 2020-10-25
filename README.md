@@ -2,7 +2,7 @@
 
 ## Total
 
-* Not Finish: 9
+* Not Finish: 10
 * Finish: 408
 
 ## Not Finish
@@ -11,6 +11,7 @@
 	* [ ] uva128 - Software CRC
 
 * part two
+	* [ ] uva1428 - Ping pong
 	* [ ] uva1621 - Jumping Around
 
 * part three
