@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 411
+* Finish: 412
 
 ## Not Finish
 
@@ -166,6 +166,7 @@
 	* [x] uva1394 - And Then There Was One
 	* [x] uva1428 - Ping pong
 	* [x] uva1442 - Cav
+	* [x] uva1482 - Playing With Stones
 	* [x] uva1494 - Qin Shi Huang's National Road System
 	* [x] uva1513 - Movie collection
 	* [x] uva1583 - Digit Generator
