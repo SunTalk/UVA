@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 413
+* Finish: 414
 
 ## Not Finish
 
@@ -397,6 +397,7 @@
 	* [x] uva12004 - Bubble Sort
 	* [x] uva12015 - Google is Feeling Lucky
 	* [x] uva12019 - Doom's Day Algorithm
+	* [x] uva12032 - The Monkey and the Oiled Bamboo
 	* [x] uva12086 - Potentiometers
 	* [x] uva12149 - Feynman
 	* [x] uva12190 - Electric Bill
