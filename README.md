@@ -2,8 +2,8 @@
 
 ## Total
 
-* Not Finish: 11
-* Finish: 408
+* Not Finish: 8
+* Finish: 411
 
 ## Not Finish
 
@@ -11,7 +11,6 @@
 	* [ ] uva128 - Software CRC
 
 * part two
-	* [ ] uva1428 - Ping pong
 	* [ ] uva1621 - Jumping Around
 
 * part three
@@ -20,9 +19,7 @@
 	* [ ] uva11367 - Full Tank?
 	* [ ] uva11374 - Airport Express
 	* [ ] uva11542 - Square
-	* [ ] uva12190 - Electric Bill
 	* [ ] uva13194 - DPA Numbers II
-	* [ ] uva13275 - Leap Birthdays
 
 ## Finish
 
@@ -167,6 +164,7 @@
 	* [x] uva1292 - Strategic game
 	* [x] uva1312 - Cricket Field
 	* [x] uva1394 - And Then There Was One
+	* [x] uva1428 - Ping pong
 	* [x] uva1442 - Cav
 	* [x] uva1494 - Qin Shi Huang's National Road System
 	* [x] uva1513 - Movie collection
@@ -399,6 +397,7 @@
 	* [x] uva12019 - Doom's Day Algorithm
 	* [x] uva12086 - Potentiometers
 	* [x] uva12149 - Feynman
+	* [x] uva12190 - Electric Bill
 	* [x] uva12195 - Jingle Composing
 	* [x] uva12208 - How Many Ones Needed?
 	* [x] uva12241 - Digits Count
@@ -439,4 +438,5 @@
 	* [x] uva13203 - Disk Madness
 	* [x] uva13212 - How many inversions?
 	* [x] uva13216 - Problem with a ridiculously long name but with a ridiculously short description
+	* [x] uva13275 - Leap Birthdays
 
