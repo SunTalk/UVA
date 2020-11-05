@@ -3,7 +3,7 @@
 ## Total
 
 * Not Finish: 8
-* Finish: 412
+* Finish: 413
 
 ## Not Finish
 
@@ -319,6 +319,7 @@
 	* [x] uva11057 - Exact Sum
 	* [x] uva11059 - Maximum Product
 	* [x] uva11069 - A Graph Problem
+	* [x] uva11078 - Open Credit System
 	* [x] uva11121 - Base -2
 	* [x] uva11150 - Cola
 	* [x] uva11172 - Relational Operator
